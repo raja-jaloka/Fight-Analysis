@@ -5,6 +5,7 @@ import json
 #Part 1: Scrape the basic figther data from the fighters page on UFC stats
 fighters_url=[]
 letters = 'abcdefghijklmnopqrstuvwxyz'
+i=0
 for letter in letters:
     url=f'http://ufcstats.com/statistics/fighters?char={letter}'
     page=requests.get(url)
@@ -14,7 +15,6 @@ for letter in letters:
 
     soup=BeautifulSoup(page.text, 'html.parser')
     rows=soup.find_all('tr', class_="b-statistics__table-row")
-    i=0
     for row in rows[1:]:
         link=row.find('a')
         cols=row.find_all('td')

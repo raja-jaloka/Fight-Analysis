@@ -1,8 +1,9 @@
 from bs4 import BeautifulSoup
 import requests
+import json
 
 #Part 1: Scrape the basic figther data from the fighters page on UFC stats
-fighters=[]
+fighters_url=[]
 letters = 'abcdefghijklmnopqrstuvwxyz'
 for letter in letters:
     url=f'http://ufcstats.com/statistics/fighters?char={letter}'
@@ -15,14 +16,13 @@ for letter in letters:
     rows=soup.find_all('tr', class_="b-statistics__table-row")
     i=0
     for row in rows[1:]:
-        cols=row.find_all('td')
         link=row.find('a')
-        
+        cols=row.find_all('td')
         # Validate that link exists and cols has enough elements
-        if link is None or len(cols) < 10:
+        if link is None or len(cols)<10: 
             continue
         
-        fighter={
+        fighter_url={
             'fighter_id': i,
             'fighter_url': link['href'] ,
             'name': cols[0].text.strip()+' '+cols[1].text.strip(),
@@ -32,21 +32,11 @@ for letter in letters:
             'stance': cols[6].text.strip(),
             'wins': cols[7].text.strip(),
             'losses': cols[8].text.strip(),
-            'draws': cols[9].text.strip(),
+            'draws': cols[9].text.strip()
         }
         i+=1
-        fighters.append(fighter)
-print(fighters)
+        fighters_url.append(fighter_url)
+#print(fighters_url)
 
-advanced_fighters=[]
-
-#Part 2: Scrape the Detailed fighter data from the individual fighter pages 
-for fighter in fighters:
-    fighter_id=fighter['fighter_id']
-    furl=fighter['fighter_url']
-    page=requests.get(furl)
-    if(page.status_code!=200):
-        print(f'{page.status_code} Error fetching data from the page! ')
-        exit()
-    soup=BeautifulSoup(page.text, 'html.parser')
-
+with open('fighters.json', 'w') as f:
+    json.dump(fighters_url, f, indent=4)

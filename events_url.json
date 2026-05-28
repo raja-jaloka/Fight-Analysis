@@ -1,0 +1,3094 @@
+[
+    {
+        "event_id": 0,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-328-chimaev-vs-strickland/"
+    },
+    {
+        "event_id": 1,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-della-maddalena-vs-prates/"
+    },
+    {
+        "event_id": 2,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-sterling-vs-zalal/"
+    },
+    {
+        "event_id": 3,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-burns-vs-malott/"
+    },
+    {
+        "event_id": 4,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-327-prochazka-vs-ulberg/"
+    },
+    {
+        "event_id": 5,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-moicano-vs-duncan/"
+    },
+    {
+        "event_id": 6,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-adesanya-vs-pyfer/"
+    },
+    {
+        "event_id": 7,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-evloev-vs-murphy/"
+    },
+    {
+        "event_id": 8,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-emmett-vs-vallejos/"
+    },
+    {
+        "event_id": 9,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-326-holloway-vs-oliveira-2/"
+    },
+    {
+        "event_id": 10,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-moreno-vs-kavanagh/"
+    },
+    {
+        "event_id": 11,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-strickland-vs-hernandez/"
+    },
+    {
+        "event_id": 12,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-bautista-vs-oliveira/"
+    },
+    {
+        "event_id": 13,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-325-volkanovski-vs-lopes-2/"
+    },
+    {
+        "event_id": 14,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-324-gaethje-vs-pimblett/"
+    },
+    {
+        "event_id": 15,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-royval-vs-kape/"
+    },
+    {
+        "event_id": 16,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-323-dvalishvili-vs-yan-2/"
+    },
+    {
+        "event_id": 17,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-tsarukyan-vs-hooker/"
+    },
+    {
+        "event_id": 18,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-322-della-maddalena-vs-makhachev/"
+    },
+    {
+        "event_id": 19,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-bonfim-vs-brown/"
+    },
+    {
+        "event_id": 20,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-garcia-vs-onama/"
+    },
+    {
+        "event_id": 21,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-321-aspinall-vs-gane/"
+    },
+    {
+        "event_id": 22,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-de-ridder-vs-allen/"
+    },
+    {
+        "event_id": 23,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-oliveira-vs-gamrot/"
+    },
+    {
+        "event_id": 24,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-320-ankalaev-vs-pereira-2/"
+    },
+    {
+        "event_id": 25,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-ulberg-vs-reyes/"
+    },
+    {
+        "event_id": 26,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-lopes-vs-silva/"
+    },
+    {
+        "event_id": 27,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-imavov-vs-borralho/"
+    },
+    {
+        "event_id": 28,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-walker-vs-zhang/"
+    },
+    {
+        "event_id": 29,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc---road-to-ufc-46/"
+    },
+    {
+        "event_id": 30,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-319-du-plessis-vs-chimaev/"
+    },
+    {
+        "event_id": 31,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-dolidze-vs-hernandez/"
+    },
+    {
+        "event_id": 32,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-taira-vs-park/"
+    },
+    {
+        "event_id": 33,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-whittaker-vs-de-ridder/"
+    },
+    {
+        "event_id": 34,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-318-holloway-vs-poirier-3/"
+    },
+    {
+        "event_id": 35,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-lewis-vs-teixeira/"
+    },
+    {
+        "event_id": 36,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-317-topuria-vs-oliveira/"
+    },
+    {
+        "event_id": 37,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-hill-vs-rountree-jr/"
+    },
+    {
+        "event_id": 38,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-usman-vs-buckley/"
+    },
+    {
+        "event_id": 39,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-316-dvalishvili-vs-o-malley-2/"
+    },
+    {
+        "event_id": 40,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-blanchfield-vs-barber/"
+    },
+    {
+        "event_id": 41,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-burns-vs-morales/"
+    },
+    {
+        "event_id": 42,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-315-muhammad-vs-della-maddalena/"
+    },
+    {
+        "event_id": 43,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-sandhagen-vs-figueiredo/"
+    },
+    {
+        "event_id": 44,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-machado-garry-vs-prates/"
+    },
+    {
+        "event_id": 45,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-314-volkanovski-vs-lopes/"
+    },
+    {
+        "event_id": 46,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-emmett-vs-murphy/"
+    },
+    {
+        "event_id": 47,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-moreno-vs-erceg/"
+    },
+    {
+        "event_id": 48,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-edwards-vs-brady/"
+    },
+    {
+        "event_id": 49,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-vettori-vs-dolidze-2/"
+    },
+    {
+        "event_id": 50,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-313-pereira-vs-ankalaev/"
+    },
+    {
+        "event_id": 51,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-kape-vs-almabayev/"
+    },
+    {
+        "event_id": 52,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-cejudo-vs-song/"
+    },
+    {
+        "event_id": 53,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-cannonier-vs-rodrigues/"
+    },
+    {
+        "event_id": 54,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-312-du-plessis-vs-strickland-2/"
+    },
+    {
+        "event_id": 55,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-adesanya-vs-imavov/"
+    },
+    {
+        "event_id": 56,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-311-makhachev-vs-moicano/"
+    },
+    {
+        "event_id": 57,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-dern-vs-ribas-2/"
+    },
+    {
+        "event_id": 58,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-covington-vs-buckley/"
+    },
+    {
+        "event_id": 59,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-310-pantoja-vs-asakura/"
+    },
+    {
+        "event_id": 60,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-yan-vs-figueiredo/"
+    },
+    {
+        "event_id": 61,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-309-jones-vs-miocic/"
+    },
+    {
+        "event_id": 62,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-magny-vs-prates/"
+    },
+    {
+        "event_id": 63,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-moreno-vs-albazi/"
+    },
+    {
+        "event_id": 64,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-308-topuria-vs-holloway/"
+    },
+    {
+        "event_id": 65,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-hernandez-vs-pereira/"
+    },
+    {
+        "event_id": 66,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-royval-vs-taira/"
+    },
+    {
+        "event_id": 67,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-307-pereira-vs-rountree-jr/"
+    },
+    {
+        "event_id": 68,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-moicano-vs-saint-denis/"
+    },
+    {
+        "event_id": 69,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-306-riyadh-season-noche-ufc/"
+    },
+    {
+        "event_id": 70,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-burns-vs-brady/"
+    },
+    {
+        "event_id": 71,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-cannonier-vs-borralho/"
+    },
+    {
+        "event_id": 72,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-305-du-plessis-vs-adesanya/"
+    },
+    {
+        "event_id": 73,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-tybura-vs-spivac-2/"
+    },
+    {
+        "event_id": 74,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-sandhagen-vs-nurmagomedov/"
+    },
+    {
+        "event_id": 75,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-304-edwards-vs-muhammad-2/"
+    },
+    {
+        "event_id": 76,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-lemos-vs-jandiroba/"
+    },
+    {
+        "event_id": 77,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-namajunas-vs-cortez/"
+    },
+    {
+        "event_id": 78,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-303-pereira-vs-prochazka-2/"
+    },
+    {
+        "event_id": 79,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-whittaker-vs-aliskerov/"
+    },
+    {
+        "event_id": 80,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-perez-vs-taira/"
+    },
+    {
+        "event_id": 81,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-cannonier-vs-imavov/"
+    },
+    {
+        "event_id": 82,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-302-makhachev-vs-poirier/"
+    },
+    {
+        "event_id": 83,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-barboza-vs-murphy/"
+    },
+    {
+        "event_id": 84,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-lewis-vs-nascimento/"
+    },
+    {
+        "event_id": 85,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-301-pantoja-vs-erceg/"
+    },
+    {
+        "event_id": 86,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-nicolau-vs-perez/"
+    },
+    {
+        "event_id": 87,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-300-pereira-vs-hill/"
+    },
+    {
+        "event_id": 88,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-allen-vs-curtis-2/"
+    },
+    {
+        "event_id": 89,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-blanchfield-vs-fiorot/"
+    },
+    {
+        "event_id": 90,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-ribas-vs-namajunas/"
+    },
+    {
+        "event_id": 91,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-tuivasa-vs-tybura/"
+    },
+    {
+        "event_id": 92,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-299-omalley-vs-vera-2/"
+    },
+    {
+        "event_id": 93,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-rozenstruik-vs-gaziev/"
+    },
+    {
+        "event_id": 94,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-moreno-vs-royval-2/"
+    },
+    {
+        "event_id": 95,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-298-volkanovski-vs-topuria/"
+    },
+    {
+        "event_id": 96,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-hermansson-vs-pyfer/"
+    },
+    {
+        "event_id": 97,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-dolidze-vs-imavov/"
+    },
+    {
+        "event_id": 98,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-297-strickland-vs-du-plessis/"
+    },
+    {
+        "event_id": 99,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-ankalaev-vs-walker-2/"
+    },
+    {
+        "event_id": 100,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-296-edwards-vs-covington/"
+    },
+    {
+        "event_id": 101,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-song-vs-gutierrez/"
+    },
+    {
+        "event_id": 102,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-dariush-vs-tsarukyan/"
+    },
+    {
+        "event_id": 103,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-allen-vs-craig/"
+    },
+    {
+        "event_id": 104,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-295-prochazka-vs-pereira/"
+    },
+    {
+        "event_id": 105,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-almeida-vs-lewis/"
+    },
+    {
+        "event_id": 106,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-294-makhachev-vs-volkanovski-2/"
+    },
+    {
+        "event_id": 107,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-yusuff-vs-barboza/"
+    },
+    {
+        "event_id": 108,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-dawson-vs-green/"
+    },
+    {
+        "event_id": 109,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-fiziev-vs-gamrot/"
+    },
+    {
+        "event_id": 110,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-grasso-vs-shevchenko-2/"
+    },
+    {
+        "event_id": 111,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-293-adesanya-vs-strickland/"
+    },
+    {
+        "event_id": 112,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-gane-vs-spivac/"
+    },
+    {
+        "event_id": 113,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-holloway-vs-the-korean-zombie/"
+    },
+    {
+        "event_id": 114,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-292-sterling-vs-o-malley/"
+    },
+    {
+        "event_id": 115,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-luque-vs-dos-anjos/"
+    },
+    {
+        "event_id": 116,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-sandhagen-vs-font/"
+    },
+    {
+        "event_id": 117,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-291-poirier-vs-gaethje-2/"
+    },
+    {
+        "event_id": 118,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-aspinall-vs-tybura/"
+    },
+    {
+        "event_id": 119,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-holm-vs-bueno-silva/"
+    },
+    {
+        "event_id": 120,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-290-volkanovski-vs-rodriguez/"
+    },
+    {
+        "event_id": 121,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-strickland-vs-magomedov/"
+    },
+    {
+        "event_id": 122,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-emmett-vs-topuria/"
+    },
+    {
+        "event_id": 123,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-vettori-vs-cannonier/"
+    },
+    {
+        "event_id": 124,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-289-nunes-vs-aldana/"
+    },
+    {
+        "event_id": 125,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-kara-france-vs-albazi/"
+    },
+    {
+        "event_id": 126,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-dern-vs-hill/"
+    },
+    {
+        "event_id": 127,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-rozenstruik-vs-almeida/"
+    },
+    {
+        "event_id": 128,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-288-sterling-vs-cejudo/"
+    },
+    {
+        "event_id": 129,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-song-vs-simon/"
+    },
+    {
+        "event_id": 130,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-pavlovich-vs-blaydes/"
+    },
+    {
+        "event_id": 131,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-holloway-vs-allen/"
+    },
+    {
+        "event_id": 132,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-287-pereira-vs-adesanya-2/"
+    },
+    {
+        "event_id": 133,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-vera-vs-sandhagen/"
+    },
+    {
+        "event_id": 134,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-286-edwards-vs-usman-3/"
+    },
+    {
+        "event_id": 135,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-yan-vs-dvalishvili/"
+    },
+    {
+        "event_id": 136,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-285-jones-vs-gane/"
+    },
+    {
+        "event_id": 137,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-muniz-vs-allen/"
+    },
+    {
+        "event_id": 138,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-andrade-vs-blanchfield/"
+    },
+    {
+        "event_id": 139,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-284-makhachev-vs-volkanovski/"
+    },
+    {
+        "event_id": 140,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-lewis-vs-spivac/"
+    },
+    {
+        "event_id": 141,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-283-teixeira-vs-hill/"
+    },
+    {
+        "event_id": 142,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-strickland-vs-imavov/"
+    },
+    {
+        "event_id": 143,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-cannonier-vs-strickland/"
+    },
+    {
+        "event_id": 144,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-282-blachowicz-vs-ankalaev/"
+    },
+    {
+        "event_id": 145,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-thompson-vs-holland/"
+    },
+    {
+        "event_id": 146,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-nzechukwu-vs-cutelaba/"
+    },
+    {
+        "event_id": 147,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-281-adesanya-vs-pereira/"
+    },
+    {
+        "event_id": 148,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-rodriguez-vs-lemos/"
+    },
+    {
+        "event_id": 149,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-kattar-vs-allen/"
+    },
+    {
+        "event_id": 150,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-280-oliveira-vs-makhachev/"
+    },
+    {
+        "event_id": 151,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-grasso-vs-araujo/"
+    },
+    {
+        "event_id": 152,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-dern-vs-yan/"
+    },
+    {
+        "event_id": 153,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-sandhagen-vs-song/"
+    },
+    {
+        "event_id": 154,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-279-diaz-vs-ferguson/"
+    },
+    {
+        "event_id": 155,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-gane-vs-tuivasa/"
+    },
+    {
+        "event_id": 156,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-278-usman-vs-edwards/"
+    },
+    {
+        "event_id": 157,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-vera-vs-cruz/"
+    },
+    {
+        "event_id": 158,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-santos-vs-hill/"
+    },
+    {
+        "event_id": 159,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-277-pena-vs-nunes-2/"
+    },
+    {
+        "event_id": 160,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-blaydes-vs-aspinall/"
+    },
+    {
+        "event_id": 161,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-ortega-vs-rodriguez/"
+    },
+    {
+        "event_id": 162,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-dos-anjos-vs-fiziev/"
+    },
+    {
+        "event_id": 163,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-276-adesanya-vs-cannonier/"
+    },
+    {
+        "event_id": 164,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-tsarukyan-vs-gamrot/"
+    },
+    {
+        "event_id": 165,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-kattar-vs-emmett/"
+    },
+    {
+        "event_id": 166,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-275-teixeira-vs-prochazka/"
+    },
+    {
+        "event_id": 167,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-volkov-vs-rozenstruik/"
+    },
+    {
+        "event_id": 168,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-holm-vs-vieira/"
+    },
+    {
+        "event_id": 169,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-blachowicz-vs-rakic/"
+    },
+    {
+        "event_id": 170,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-274-oliveira-vs-gaethje/"
+    },
+    {
+        "event_id": 171,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-font-vs-vera/"
+    },
+    {
+        "event_id": 172,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-lemos-vs-andrade/"
+    },
+    {
+        "event_id": 173,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-luque-vs-muhammad/"
+    },
+    {
+        "event_id": 174,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-273-volkanovski-vs-the-korean-zombie/"
+    },
+    {
+        "event_id": 175,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-blaydes-vs-daukaus/"
+    },
+    {
+        "event_id": 176,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-volkov-vs-aspinall/"
+    },
+    {
+        "event_id": 177,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-santos-vs-ankalaev/"
+    },
+    {
+        "event_id": 178,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-272-covington-vs-masvidal/"
+    },
+    {
+        "event_id": 179,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-makhachev-vs-green/"
+    },
+    {
+        "event_id": 180,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-walker-vs-hill/"
+    },
+    {
+        "event_id": 181,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-271-adesanya-vs-whittaker-2/"
+    },
+    {
+        "event_id": 182,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-hermansson-vs-strickland/"
+    },
+    {
+        "event_id": 183,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-270-ngannou-vs-gane/"
+    },
+    {
+        "event_id": 184,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-kattar-vs-chikadze/"
+    },
+    {
+        "event_id": 185,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-lewis-vs-daukaus/"
+    },
+    {
+        "event_id": 186,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-269-oliveira-vs-poirier/"
+    },
+    {
+        "event_id": 187,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-font-vs-aldo/"
+    },
+    {
+        "event_id": 188,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-vieira-vs-tate/"
+    },
+    {
+        "event_id": 189,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-holloway-vs-rodriguez/"
+    },
+    {
+        "event_id": 190,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-268-usman-vs-covington-2/"
+    },
+    {
+        "event_id": 191,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-267-blachowicz-vs-teixeira/"
+    },
+    {
+        "event_id": 192,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-costa-vs-vettori/"
+    },
+    {
+        "event_id": 193,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-ladd-vs-dumont/"
+    },
+    {
+        "event_id": 194,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-dern-vs-rodriguez/"
+    },
+    {
+        "event_id": 195,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-santos-vs-walker/"
+    },
+    {
+        "event_id": 196,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-266-volkanovski-vs-ortega/"
+    },
+    {
+        "event_id": 197,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-smith-vs-spann/"
+    },
+    {
+        "event_id": 198,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-brunson-vs-till/"
+    },
+    {
+        "event_id": 199,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-barboza-vs-chikadze/"
+    },
+    {
+        "event_id": 200,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-cannonier-vs-gastelum/"
+    },
+    {
+        "event_id": 201,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-265-lewis-vs-gane/"
+    },
+    {
+        "event_id": 202,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-hall-vs-strickland/"
+    },
+    {
+        "event_id": 203,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-sandhagen-vs-dillashaw/"
+    },
+    {
+        "event_id": 204,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-makhachev-vs-moises/"
+    },
+    {
+        "event_id": 205,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-264-poirier-vs-mcgregor-3/"
+    },
+    {
+        "event_id": 206,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-gane-vs-volkov/"
+    },
+    {
+        "event_id": 207,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-jung-vs-ige/"
+    },
+    {
+        "event_id": 208,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-263-adesanya-vs-vettori-2/"
+    },
+    {
+        "event_id": 209,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-rozenstruik-vs-sakai/"
+    },
+    {
+        "event_id": 210,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-font-vs-garbrandt/"
+    },
+    {
+        "event_id": 211,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-262-oliveira-vs-chandler/"
+    },
+    {
+        "event_id": 212,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-rodriguez-vs-waterson/"
+    },
+    {
+        "event_id": 213,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-reyes-vs-prochazka/"
+    },
+    {
+        "event_id": 214,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-261-usman-vs-masvidal-2/"
+    },
+    {
+        "event_id": 215,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-whittaker-vs-gastelum/"
+    },
+    {
+        "event_id": 216,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-vettori-vs-holland/"
+    },
+    {
+        "event_id": 217,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-260-miocic-vs-ngannou/"
+    },
+    {
+        "event_id": 218,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-brunson-vs-holland/"
+    },
+    {
+        "event_id": 219,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-edwards-vs-muhammad/"
+    },
+    {
+        "event_id": 220,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-259-blachowicz-vs-adesanya/"
+    },
+    {
+        "event_id": 221,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-rozenstruik-vs-gane/"
+    },
+    {
+        "event_id": 222,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-blaydes-vs-lewis/"
+    },
+    {
+        "event_id": 223,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-258-usman-vs-burns/"
+    },
+    {
+        "event_id": 224,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-overeem-vs-volkov/"
+    },
+    {
+        "event_id": 225,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-257-poirier-vs-mcgregor/"
+    },
+    {
+        "event_id": 226,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-chiesa-vs-magny/"
+    },
+    {
+        "event_id": 227,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-holloway-vs-kattar/"
+    },
+    {
+        "event_id": 228,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-thompson-vs-neal/"
+    },
+    {
+        "event_id": 229,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-256-figueiredo-vs-moreno/"
+    },
+    {
+        "event_id": 230,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-hermansson-vs-vettori/"
+    },
+    {
+        "event_id": 231,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-smith-vs-clark/"
+    },
+    {
+        "event_id": 232,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-255-figueiredo-vs-perez/"
+    },
+    {
+        "event_id": 233,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-felder-vs-dos-anjos/"
+    },
+    {
+        "event_id": 234,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-santos-vs-teixeira/"
+    },
+    {
+        "event_id": 235,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-hall-vs-silva/"
+    },
+    {
+        "event_id": 236,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-254-khabib-vs-gaethje/"
+    },
+    {
+        "event_id": 237,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-ortega-vs-the-korean-zombie/"
+    },
+    {
+        "event_id": 238,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-moraes-vs-sandhagen/"
+    },
+    {
+        "event_id": 239,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-holm-vs-aldana/"
+    },
+    {
+        "event_id": 240,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-253-adesanya-vs-costa/"
+    },
+    {
+        "event_id": 241,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-covington-vs-woodley/"
+    },
+    {
+        "event_id": 242,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-waterson-vs-hill/"
+    },
+    {
+        "event_id": 243,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-overeem-vs-sakai/"
+    },
+    {
+        "event_id": 244,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-smith-vs-rakic/"
+    },
+    {
+        "event_id": 245,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-munhoz-vs-edgar/"
+    },
+    {
+        "event_id": 246,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-252-miocic-vs-cormier-3/"
+    },
+    {
+        "event_id": 247,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-lewis-vs-oleinik/"
+    },
+    {
+        "event_id": 248,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-brunson-vs-shahbazyan/"
+    },
+    {
+        "event_id": 249,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-whittaker-vs-till/"
+    },
+    {
+        "event_id": 250,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-figueiredo-vs-benavidez-2/"
+    },
+    {
+        "event_id": 251,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-kattar-vs-ige/"
+    },
+    {
+        "event_id": 252,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-251-usman-vs-masvidal/"
+    },
+    {
+        "event_id": 253,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-poirier-vs-hooker/"
+    },
+    {
+        "event_id": 254,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-blaydes-vs-volkov/"
+    },
+    {
+        "event_id": 255,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-eye-vs-calvillo/"
+    },
+    {
+        "event_id": 256,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-250-nunes-vs-spencer/"
+    },
+    {
+        "event_id": 257,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-woodley-vs-burns/"
+    },
+    {
+        "event_id": 258,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-overeem-vs-harris/"
+    },
+    {
+        "event_id": 259,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-smith-vs-teixeira/"
+    },
+    {
+        "event_id": 260,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-249-ferguson-vs-gaethje/"
+    },
+    {
+        "event_id": 261,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-lee-vs-oliveira/"
+    },
+    {
+        "event_id": 262,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-248-adesanya-vs-romero/"
+    },
+    {
+        "event_id": 263,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-benavidez-vs-figueiredo/"
+    },
+    {
+        "event_id": 264,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-felder-vs-hooker/"
+    },
+    {
+        "event_id": 265,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-anderson-vs-blachowicz/"
+    },
+    {
+        "event_id": 266,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-247-jones-vs-reyes/"
+    },
+    {
+        "event_id": 267,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-blaydes-vs-dos-santos/"
+    },
+    {
+        "event_id": 268,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-246-mcgregor-vs-cowboy/"
+    },
+    {
+        "event_id": 269,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-edgar-vs-the-korean-zombie/"
+    },
+    {
+        "event_id": 270,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-245-usman-vs-covington/"
+    },
+    {
+        "event_id": 271,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-overeem-vs-rozenstruik/"
+    },
+    {
+        "event_id": 272,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-blachowicz-vs-jacare/"
+    },
+    {
+        "event_id": 273,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-zabit-vs-kattar/"
+    },
+    {
+        "event_id": 274,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-244-masvidal-vs-diaz/"
+    },
+    {
+        "event_id": 275,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-maia-vs-askren/"
+    },
+    {
+        "event_id": 276,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-reyes-vs-weidman/"
+    },
+    {
+        "event_id": 277,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-joanna-vs-waterson/"
+    },
+    {
+        "event_id": 278,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-243-whittaker-vs-adesanya/"
+    },
+    {
+        "event_id": 279,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-hermansson-vs-cannonier/"
+    },
+    {
+        "event_id": 280,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-rodriguez-vs-stephens/"
+    },
+    {
+        "event_id": 281,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-cowboy-vs-gaethje/"
+    },
+    {
+        "event_id": 282,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-242-khabib-vs-poirier/"
+    },
+    {
+        "event_id": 283,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-andrade-vs-zhang/"
+    },
+    {
+        "event_id": 284,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-241-cormier-vs-miocic-2/"
+    },
+    {
+        "event_id": 285,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-shevchenko-vs-carmouche-2/"
+    },
+    {
+        "event_id": 286,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-covington-vs-lawler/"
+    },
+    {
+        "event_id": 287,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-240-holloway-vs-edgar/"
+    },
+    {
+        "event_id": 288,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-dos-anjos-vs-edwards/"
+    },
+    {
+        "event_id": 289,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-de-randamie-vs-ladd/"
+    },
+    {
+        "event_id": 290,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-239-jones-vs-santos/"
+    },
+    {
+        "event_id": 291,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-ngannou-vs-dos-santos/"
+    },
+    {
+        "event_id": 292,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-moicano-vs-the-korean-zombie/"
+    },
+    {
+        "event_id": 293,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-238-cejudo-vs-moraes/"
+    },
+    {
+        "event_id": 294,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-gustafsson-vs-smith/"
+    },
+    {
+        "event_id": 295,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-dos-anjos-vs-lee/"
+    },
+    {
+        "event_id": 296,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-237-namajunas-vs-andrade/"
+    },
+    {
+        "event_id": 297,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-iaquinta-vs-cowboy/"
+    },
+    {
+        "event_id": 298,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-jacare-vs-hermansson/"
+    },
+    {
+        "event_id": 299,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-overeem-vs-oleinik/"
+    },
+    {
+        "event_id": 300,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-236-holloway-vs-poirier-2/"
+    },
+    {
+        "event_id": 301,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-barboza-vs-gaethje/"
+    },
+    {
+        "event_id": 302,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-thompson-vs-pettis/"
+    },
+    {
+        "event_id": 303,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-till-vs-masvidal/"
+    },
+    {
+        "event_id": 304,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-lewis-vs-dos-santos/"
+    },
+    {
+        "event_id": 305,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-235-jones-vs-smith/"
+    },
+    {
+        "event_id": 306,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-blachowicz-vs-santos/"
+    },
+    {
+        "event_id": 307,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-ngannou-vs-velasquez/"
+    },
+    {
+        "event_id": 308,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-234-adesanya-vs-silva/"
+    },
+    {
+        "event_id": 309,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-assuncao-vs-moraes-2/"
+    },
+    {
+        "event_id": 310,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-cejudo-vs-dillashaw/"
+    },
+    {
+        "event_id": 311,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-232-jones-vs-gustafsson-2/"
+    },
+    {
+        "event_id": 312,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-lee-vs-iaquinta/"
+    },
+    {
+        "event_id": 313,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-231-holloway-vs-ortega/"
+    },
+    {
+        "event_id": 314,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-dos-santos-vs-tuivasa/"
+    },
+    {
+        "event_id": 315,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/the-ultimate-fighter-heavy-hitters-finale/"
+    },
+    {
+        "event_id": 316,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-blaydes-vs-ngannou-2/"
+    },
+    {
+        "event_id": 317,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-magny-vs-ponzinibbio/"
+    },
+    {
+        "event_id": 318,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-korean-zombie-vs-rodriguez/"
+    },
+    {
+        "event_id": 319,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-230-cormier-vs-lewis/"
+    },
+    {
+        "event_id": 320,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-oezdemir-vs-smith/"
+    },
+    {
+        "event_id": 321,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-229-khabib-vs-mcgregor/"
+    },
+    {
+        "event_id": 322,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-marreta-vs-anders/"
+    },
+    {
+        "event_id": 323,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-hunt-vs-oleinik/"
+    },
+    {
+        "event_id": 324,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-228-woodley-vs-till/"
+    },
+    {
+        "event_id": 325,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-gaethje-vs-vick/"
+    },
+    {
+        "event_id": 326,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-227-dillashaw-vs-garbrandt-2/"
+    },
+    {
+        "event_id": 327,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-alvarez-vs-poirier-2/"
+    },
+    {
+        "event_id": 328,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-shogun-vs-smith/"
+    },
+    {
+        "event_id": 329,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-dos-santos-vs-ivanov/"
+    },
+    {
+        "event_id": 330,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-226-miocic-vs-cormier/"
+    },
+    {
+        "event_id": 331,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/the-ultimate-fighter-undefeated-finale/"
+    },
+    {
+        "event_id": 332,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-cowboy-vs-edwards/"
+    },
+    {
+        "event_id": 333,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-225-whittaker-vs-romero-2/"
+    },
+    {
+        "event_id": 334,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-rivera-vs-moraes/"
+    },
+    {
+        "event_id": 335,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-thompson-vs-till/"
+    },
+    {
+        "event_id": 336,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-maia-vs-usman/"
+    },
+    {
+        "event_id": 337,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-224-nunes-vs-pennington/"
+    },
+    {
+        "event_id": 338,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-barboza-vs-lee/"
+    },
+    {
+        "event_id": 339,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-poirier-vs-gaethje/"
+    },
+    {
+        "event_id": 340,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-223-khabib-vs-iaquinta/"
+    },
+    {
+        "event_id": 341,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-werdum-vs-volkov/"
+    },
+    {
+        "event_id": 342,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-222-cyborg-vs-kunitskaya/"
+    },
+    {
+        "event_id": 343,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-emmett-vs-stephens/"
+    },
+    {
+        "event_id": 344,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-cerrone-vs-medeiros/"
+    },
+    {
+        "event_id": 345,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-221-romero-vs-rockhold/"
+    },
+    {
+        "event_id": 346,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-machida-vs-anders/"
+    },
+    {
+        "event_id": 347,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-jacare-vs-brunson-2/"
+    },
+    {
+        "event_id": 348,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-220-miocic-vs-ngannou/"
+    },
+    {
+        "event_id": 349,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-stephens-vs-choi/"
+    },
+    {
+        "event_id": 350,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-219-cyborg-vs-holm/"
+    },
+    {
+        "event_id": 351,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-lawler-vs-dos-anjos/"
+    },
+    {
+        "event_id": 352,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-swanson-vs-ortega/"
+    },
+    {
+        "event_id": 353,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-218-holloway-vs-aldo-2/"
+    },
+    {
+        "event_id": 354,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/the-ultimate-fighter-a-new-world-champion-finale/"
+    },
+    {
+        "event_id": 355,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-bisping-vs-gastelum/"
+    },
+    {
+        "event_id": 356,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-werdum-vs-tybura/"
+    },
+    {
+        "event_id": 357,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-poirier-vs-pettis/"
+    },
+    {
+        "event_id": 358,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-217-bisping-vs-st-pierre/"
+    },
+    {
+        "event_id": 359,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-brunson-vs-machida/"
+    },
+    {
+        "event_id": 360,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-cerrone-vs-till/"
+    },
+    {
+        "event_id": 361,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-216-ferguson-vs-lee/"
+    },
+    {
+        "event_id": 362,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-saint-preux-vs-okami/"
+    },
+    {
+        "event_id": 363,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-rockhold-vs-branch/"
+    },
+    {
+        "event_id": 364,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-215-nunes-vs-shevchenko-2/"
+    },
+    {
+        "event_id": 365,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-volkov-vs-struve/"
+    },
+    {
+        "event_id": 366,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-pettis-vs-moreno/"
+    },
+    {
+        "event_id": 367,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-214-cormier-vs-jones-2/"
+    },
+    {
+        "event_id": 368,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-weidman-vs-gastelum/"
+    },
+    {
+        "event_id": 369,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-nelson-vs-ponzinibbio/"
+    },
+    {
+        "event_id": 370,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-213-romero-vs-whittaker/"
+    },
+    {
+        "event_id": 371,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/the-ultimate-fighter-redemption-finale/"
+    },
+    {
+        "event_id": 372,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-chiesa-vs-lee/"
+    },
+    {
+        "event_id": 373,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-holm-vs-correia/"
+    },
+    {
+        "event_id": 374,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-lewis-vs-hunt/"
+    },
+    {
+        "event_id": 375,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-212-aldo-vs-holloway/"
+    },
+    {
+        "event_id": 376,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-gustafsson-vs-teixeira/"
+    },
+    {
+        "event_id": 377,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-211-miocic-vs-dos-santos/"
+    },
+    {
+        "event_id": 378,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-swanson-vs-lobov/"
+    },
+    {
+        "event_id": 379,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-on-fox-johnson-vs-reis/"
+    },
+    {
+        "event_id": 380,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-210-cormier-vs-johnson-2/"
+    },
+    {
+        "event_id": 381,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-manuwa-vs-anderson/"
+    },
+    {
+        "event_id": 382,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-belfort-vs-gastelum/"
+    },
+    {
+        "event_id": 383,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-209-woodley-vs-thompson-2/"
+    },
+    {
+        "event_id": 384,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-lewis-vs-browne/"
+    },
+    {
+        "event_id": 385,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-208-holm-vs-de-randamie/"
+    },
+    {
+        "event_id": 386,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-bermudez-vs-the-korean-zombie/"
+    },
+    {
+        "event_id": 387,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-on-fox-shevchenko-vs-pena/"
+    },
+    {
+        "event_id": 388,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-rodriguez-vs-penn/"
+    },
+    {
+        "event_id": 389,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-207-nunes-vs-rousey/"
+    },
+    {
+        "event_id": 390,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-on-fox-vanzant-vs-waterson/"
+    },
+    {
+        "event_id": 391,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-206-holloway-vs-pettis/"
+    },
+    {
+        "event_id": 392,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-lewis-vs-abdurakhimov/"
+    },
+    {
+        "event_id": 393,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/the-ultimate-fighter-tournament-of-champions-finale/"
+    },
+    {
+        "event_id": 394,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-whittaker-vs-brunson/"
+    },
+    {
+        "event_id": 395,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-bader-vs-nogueira/"
+    },
+    {
+        "event_id": 396,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-mousasi-vs-hall-2/"
+    },
+    {
+        "event_id": 397,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-205-alvarez-vs-mcgregor/"
+    },
+    {
+        "event_id": 398,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-dos-anjos-vs-ferguson/"
+    },
+    {
+        "event_id": 399,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-204-bisping-vs-henderson/"
+    },
+    {
+        "event_id": 400,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-lineker-vs-dodson/"
+    },
+    {
+        "event_id": 401,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-cyborg-vs-lansberg/"
+    },
+    {
+        "event_id": 402,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-poirier-vs-johnson/"
+    },
+    {
+        "event_id": 403,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-203-miocic-vs-overeem/"
+    },
+    {
+        "event_id": 404,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-arlovski-vs-barnett/"
+    },
+    {
+        "event_id": 405,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-on-fox-maia-vs-condit/"
+    },
+    {
+        "event_id": 406,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-202-diaz-vs-mcgregor-2/"
+    },
+    {
+        "event_id": 407,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-rodriguez-vs-caceres/"
+    },
+    {
+        "event_id": 408,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-201-lawler-vs-woodley/"
+    },
+    {
+        "event_id": 409,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-on-fox-holm-vs-shevchenko/"
+    },
+    {
+        "event_id": 410,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-mcdonald-vs-lineker/"
+    },
+    {
+        "event_id": 411,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-200-tate-vs-nunes/"
+    },
+    {
+        "event_id": 412,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/the-ultimate-fighter-team-joanna-vs-team-cludia-finale/"
+    },
+    {
+        "event_id": 413,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-dos-anjos-vs-alvarez/"
+    },
+    {
+        "event_id": 414,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-macdonald-vs-thompson/"
+    },
+    {
+        "event_id": 415,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-199-rockhold-vs-bisping-2/"
+    },
+    {
+        "event_id": 416,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-almeida-vs-garbrandt/"
+    },
+    {
+        "event_id": 417,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-198-werdum-vs-miocic/"
+    },
+    {
+        "event_id": 418,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-overeem-vs-arlovski/"
+    },
+    {
+        "event_id": 419,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-197-jones-vs-saint-preux/"
+    },
+    {
+        "event_id": 420,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-on-fox-teixeira-vs-evans/"
+    },
+    {
+        "event_id": 421,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-rothwell-vs-dos-santos/"
+    },
+    {
+        "event_id": 422,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-hunt-vs-mir/"
+    },
+    {
+        "event_id": 423,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-196-mcgregor-vs-diaz/"
+    },
+    {
+        "event_id": 424,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-silva-vs-bisping/"
+    },
+    {
+        "event_id": 425,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-cowboy-vs-cowboy/"
+    },
+    {
+        "event_id": 426,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-hendricks-vs-thompson/"
+    },
+    {
+        "event_id": 427,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-on-fox-johnson-vs-bader/"
+    },
+    {
+        "event_id": 428,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-dillashaw-vs-cruz/"
+    },
+    {
+        "event_id": 429,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-195-lawler-vs-condit/"
+    },
+    {
+        "event_id": 430,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-on-fox-dos-anjos-vs-cowboy-2/"
+    },
+    {
+        "event_id": 431,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-194-aldo-vs-mcgregor/"
+    },
+    {
+        "event_id": 432,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/the-ultimate-fighter-team-mcgregor-vs-team-faber-finale/"
+    },
+    {
+        "event_id": 433,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-namajunas-vs-vanzant/"
+    },
+    {
+        "event_id": 434,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-henderson-vs-masvidal/"
+    },
+    {
+        "event_id": 435,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-magny-vs-gastelum/"
+    },
+    {
+        "event_id": 436,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-193-rousey-vs-holm/"
+    },
+    {
+        "event_id": 437,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-belfort-vs-henderson-3/"
+    },
+    {
+        "event_id": 438,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-holohan-vs-smolka/"
+    },
+    {
+        "event_id": 439,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-192-cormier-vs-gustafsson/"
+    },
+    {
+        "event_id": 440,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-barnett-vs-nelson/"
+    },
+    {
+        "event_id": 441,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-191-johnson-vs-dodson-2/"
+    },
+    {
+        "event_id": 442,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-holloway-vs-oliveira/"
+    },
+    {
+        "event_id": 443,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-teixeira-vs-saint-preux/"
+    },
+    {
+        "event_id": 444,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-190-rousey-vs-correia/"
+    },
+    {
+        "event_id": 445,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-on-fox-dillashaw-vs-barao-ii/"
+    },
+    {
+        "event_id": 446,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-bisping-vs-leites/"
+    },
+    {
+        "event_id": 447,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-mir-vs-duffee/"
+    },
+    {
+        "event_id": 448,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/the-ultimate-fighter-american-top-team-vs-blackzilians-finale/"
+    },
+    {
+        "event_id": 449,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-189-mendes-vs-mcgregor/"
+    },
+    {
+        "event_id": 450,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-machida-vs-romero/"
+    },
+    {
+        "event_id": 451,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-jedrzejczyk-vs-penne/"
+    },
+    {
+        "event_id": 452,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-188-velasquez-vs-werdum/"
+    },
+    {
+        "event_id": 453,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-boetsch-vs-henderson/"
+    },
+    {
+        "event_id": 454,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-condit-vs-alves/"
+    },
+    {
+        "event_id": 455,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-187-johnson-vs-cormier/"
+    },
+    {
+        "event_id": 456,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-edgar-vs-faber/"
+    },
+    {
+        "event_id": 457,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-miocic-vs-hunt/"
+    },
+    {
+        "event_id": 458,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-186-johnson-vs-horiguchi/"
+    },
+    {
+        "event_id": 459,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-on-fox-machida-vs-rockhold/"
+    },
+    {
+        "event_id": 460,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-gonzaga-vs-cro-cop-2/"
+    },
+    {
+        "event_id": 461,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-mendes-vs-lamas/"
+    },
+    {
+        "event_id": 462,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-maia-vs-laflare/"
+    },
+    {
+        "event_id": 463,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-185-pettis-vs-dos-anjos/"
+    },
+    {
+        "event_id": 464,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-184-rousey-vs-zingano/"
+    },
+    {
+        "event_id": 465,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-bigfoot-vs-mir/"
+    },
+    {
+        "event_id": 466,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-henderson-vs-thatch/"
+    },
+    {
+        "event_id": 467,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-183-silva-vs-diaz/"
+    },
+    {
+        "event_id": 468,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-on-fox-gustafsson-vs-johnson/"
+    },
+    {
+        "event_id": 469,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-mcgregor-vs-siver/"
+    },
+    {
+        "event_id": 470,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-182-jones-vs-cormier/"
+    },
+    {
+        "event_id": 471,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-machida-vs-dollaway/"
+    },
+    {
+        "event_id": 472,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-on-fox-dos-santos-vs-miocic/"
+    },
+    {
+        "event_id": 473,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/the-ultimate-fighter-a-champion-will-be-crowned-finale/"
+    },
+    {
+        "event_id": 474,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-181-hendricks-vs-lawler-ii/"
+    },
+    {
+        "event_id": 475,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-edgar-vs-swanson/"
+    },
+    {
+        "event_id": 476,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-180-werdum-vs-hunt/"
+    },
+    {
+        "event_id": 477,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-56-shogun-vs-saint-preux/"
+    },
+    {
+        "event_id": 478,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-rockhold-vs-bisping/"
+    },
+    {
+        "event_id": 479,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-179-aldo-vs-mendes-2/"
+    },
+    {
+        "event_id": 480,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-macdonald-vs-saffiedine/"
+    },
+    {
+        "event_id": 481,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-nelson-vs-story/"
+    },
+    {
+        "event_id": 482,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-178-johnson-vs-cariaso/"
+    },
+    {
+        "event_id": 483,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-hunt-vs-nelson/"
+    },
+    {
+        "event_id": 484,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-bigfoot-vs-arlovski/"
+    },
+    {
+        "event_id": 485,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-jacare-vs-mousasi/"
+    },
+    {
+        "event_id": 486,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-177-dillashaw-vs-soto/"
+    },
+    {
+        "event_id": 487,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-henderson-vs-dos-anjos/"
+    },
+    {
+        "event_id": 488,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-bisping-vs-le/"
+    },
+    {
+        "event_id": 489,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-bader-vs-saint-preux/"
+    },
+    {
+        "event_id": 490,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-on-fox-lawler-vs-brown/"
+    },
+    {
+        "event_id": 491,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-mcgregor-vs-brandao/"
+    },
+    {
+        "event_id": 492,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-cowboy-vs-miller/"
+    },
+    {
+        "event_id": 493,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/the-ultimate-fighter-team-edgar-vs-team-penn-finale/"
+    },
+    {
+        "event_id": 494,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-175-weidman-vs-machida/"
+    },
+    {
+        "event_id": 495,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-swanson-vs-stephens/"
+    },
+    {
+        "event_id": 496,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-te-huna-vs-marquardt/"
+    },
+    {
+        "event_id": 497,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-174-johnson-vs-bagautinov/"
+    },
+    {
+        "event_id": 498,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-henderson-vs-khabilov/"
+    },
+    {
+        "event_id": 499,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-miocic-vs-maldonado/"
+    },
+    {
+        "event_id": 500,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-munoz-vs-mousasi/"
+    },
+    {
+        "event_id": 501,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-173-barao-vs-dillashaw/"
+    },
+    {
+        "event_id": 502,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-brown-vs-silva/"
+    },
+    {
+        "event_id": 503,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-172-jones-vs-teixeira/"
+    },
+    {
+        "event_id": 504,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-on-fox-werdum-vs-browne/"
+    },
+    {
+        "event_id": 505,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-bisping-vs-kennedy/"
+    },
+    {
+        "event_id": 506,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-minotauro-vs-nelson/"
+    },
+    {
+        "event_id": 507,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-shogun-vs-henderson-2/"
+    },
+    {
+        "event_id": 508,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-171-hendricks-vs-lawler/"
+    },
+    {
+        "event_id": 509,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-gustafsson-vs-manuwa/"
+    },
+    {
+        "event_id": 510,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-kim-vs-hathaway/"
+    },
+    {
+        "event_id": 511,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-170-rousey-vs-mcmann/"
+    },
+    {
+        "event_id": 512,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-machida-vs-mousasi/"
+    },
+    {
+        "event_id": 513,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-169-barao-vs-faber-2/"
+    },
+    {
+        "event_id": 514,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-on-fox-henderson-vs-thomson/"
+    },
+    {
+        "event_id": 515,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-rockhold-vs-philippou/"
+    },
+    {
+        "event_id": 516,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-saffiedine-vs-lim/"
+    },
+    {
+        "event_id": 517,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-168-weidman-vs-silva-2/"
+    },
+    {
+        "event_id": 518,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-on-fox-johnson-vs-benavidez-2/"
+    },
+    {
+        "event_id": 519,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-hunt-vs-bigfoot/"
+    },
+    {
+        "event_id": 520,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/the-ultimate-fighter-team-rousey-vs-team-tate-finale/"
+    },
+    {
+        "event_id": 521,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-167-st-pierre-vs-hendricks/"
+    },
+    {
+        "event_id": 522,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-belfort-vs-henderson-2/"
+    },
+    {
+        "event_id": 523,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-fight-for-the-troops-3/"
+    },
+    {
+        "event_id": 524,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-machida-vs-munoz/"
+    },
+    {
+        "event_id": 525,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-166-velasquez-vs-dos-santos-3/"
+    },
+    {
+        "event_id": 526,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-maia-vs-shields/"
+    },
+    {
+        "event_id": 527,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-165-jones-vs-gustafsson/"
+    },
+    {
+        "event_id": 528,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-teixeira-vs-bader/"
+    },
+    {
+        "event_id": 529,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-164-henderson-vs-pettis-2/"
+    },
+    {
+        "event_id": 530,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-condit-vs-kampmann-2/"
+    },
+    {
+        "event_id": 531,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-shogun-vs-sonnen/"
+    },
+    {
+        "event_id": 532,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-163-aldo-vs-jung/"
+    },
+    {
+        "event_id": 533,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-on-fox-johnson-vs-moraga/"
+    },
+    {
+        "event_id": 534,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-162-silva-vs-weidman/"
+    },
+    {
+        "event_id": 535,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-161-evans-vs-henderson/"
+    },
+    {
+        "event_id": 536,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-on-fuel-tv-nogueira-vs-werdum/"
+    },
+    {
+        "event_id": 537,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-160-velasquez-vs-silva-2/"
+    },
+    {
+        "event_id": 538,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-on-fx-belfort-vs-rockhold/"
+    },
+    {
+        "event_id": 539,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-159-jones-vs-sonnen/"
+    },
+    {
+        "event_id": 540,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-on-fox-henderson-vs-melendez/"
+    },
+    {
+        "event_id": 541,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/the-ultimate-fighter-team-jones-vs-team-sonnen-finale/"
+    },
+    {
+        "event_id": 542,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-on-fuel-tv-mousasi-vs-latifi/"
+    },
+    {
+        "event_id": 543,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-158-st-pierre-vs-diaz/"
+    },
+    {
+        "event_id": 544,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-on-fuel-tv-silva-vs-stann/"
+    },
+    {
+        "event_id": 545,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-157-rousey-vs-carmouche/"
+    },
+    {
+        "event_id": 546,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-on-fuel-tv-barao-vs-mcdonald/"
+    },
+    {
+        "event_id": 547,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-156-aldo-vs-edgar/"
+    },
+    {
+        "event_id": 548,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-on-fox-johnson-vs-dodson/"
+    },
+    {
+        "event_id": 549,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-on-fx-belfort-vs-bisping/"
+    },
+    {
+        "event_id": 550,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-155-dos-santos-vs-velasquez-ii/"
+    },
+    {
+        "event_id": 551,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/the-ultimate-fighter-team-carwin-vs-team-nelson-finale/"
+    },
+    {
+        "event_id": 552,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-on-fx-sotiropoulos-vs-pearson/"
+    },
+    {
+        "event_id": 553,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-on-fox-henderson-vs-diaz/"
+    },
+    {
+        "event_id": 554,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-154-st-pierre-vs-condit/"
+    },
+    {
+        "event_id": 555,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-macao-franklin-vs-le/"
+    },
+    {
+        "event_id": 556,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-153-silva-vs-bonnar/"
+    },
+    {
+        "event_id": 557,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-on-fx-browne-vs-bigfoot/"
+    },
+    {
+        "event_id": 558,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-on-fuel-tv-struve-vs-miocic/"
+    },
+    {
+        "event_id": 559,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-152-jones-vs-belfort/"
+    },
+    {
+        "event_id": 560,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-150-henderson-vs-edgar-ii/"
+    },
+    {
+        "event_id": 561,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-on-fox-shogun-vs-vera/"
+    },
+    {
+        "event_id": 562,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-149-faber-vs-barao/"
+    },
+    {
+        "event_id": 563,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-on-fuel-tv-munoz-vs-weidman/"
+    },
+    {
+        "event_id": 564,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-148-silva-vs-sonnen-2/"
+    },
+    {
+        "event_id": 565,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-147-silva-vs-franklin-2/"
+    },
+    {
+        "event_id": 566,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-on-fx-maynard-vs-guida/"
+    },
+    {
+        "event_id": 567,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-on-fx-johnson-vs-mccall/"
+    },
+    {
+        "event_id": 568,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/the-ultimate-fighter-live-finale/"
+    },
+    {
+        "event_id": 569,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-146-dos-santos-vs-mir/"
+    },
+    {
+        "event_id": 570,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-on-fuel-tv-korean-zombie-vs-poirier/"
+    },
+    {
+        "event_id": 571,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-on-fox-diaz-vs-miller/"
+    },
+    {
+        "event_id": 572,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-145-jones-vs-evans/"
+    },
+    {
+        "event_id": 573,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-on-fuel-tv-gustafsson-vs-silva/"
+    },
+    {
+        "event_id": 574,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-on-fx-alves-vs-kampmann/"
+    },
+    {
+        "event_id": 575,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-144-edgar-vs-henderson/"
+    },
+    {
+        "event_id": 576,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-on-fuel-tv-sanchez-vs-ellenberger/"
+    },
+    {
+        "event_id": 577,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-143-diaz-vs-condit/"
+    },
+    {
+        "event_id": 578,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-on-fox-evans-vs-davis/"
+    },
+    {
+        "event_id": 579,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-on-fx-guillard-vs-miller/"
+    },
+    {
+        "event_id": 580,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-142-aldo-vs-mendes/"
+    },
+    {
+        "event_id": 581,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-141-lesnar-vs-overeem/"
+    },
+    {
+        "event_id": 582,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-140-jones-vs-machida/"
+    },
+    {
+        "event_id": 583,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/the-ultimate-fighter-team-bisping-vs-team-miller-finale/"
+    },
+    {
+        "event_id": 584,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-139-shogun-vs-henderson/"
+    },
+    {
+        "event_id": 585,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-on-fox-velasquez-vs-dos-santos/"
+    },
+    {
+        "event_id": 586,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-138-leben-vs-munoz/"
+    },
+    {
+        "event_id": 587,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-137-penn-vs-diaz/"
+    },
+    {
+        "event_id": 588,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-136-edgar-vs-maynard-3/"
+    },
+    {
+        "event_id": 589,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-live-cruz-vs-johnson/"
+    },
+    {
+        "event_id": 590,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-135-jones-vs-rampage/"
+    },
+    {
+        "event_id": 591,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-shields-vs-ellenberger/"
+    },
+    {
+        "event_id": 592,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-134-silva-vs-okami/"
+    },
+    {
+        "event_id": 593,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-live-hardy-vs-lytle/"
+    },
+    {
+        "event_id": 594,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-133-evans-vs-ortiz-2/"
+    },
+    {
+        "event_id": 595,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-132-cruz-vs-faber/"
+    },
+    {
+        "event_id": 596,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-live-kongo-vs-barry/"
+    },
+    {
+        "event_id": 597,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-131-dos-santos-vs-carwin/"
+    },
+    {
+        "event_id": 598,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/the-ultimate-fighter-team-lesnar-vs-team-dos-santos-finale/"
+    },
+    {
+        "event_id": 599,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-130-rampage-vs-hamill/"
+    },
+    {
+        "event_id": 600,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-129-st-pierre-vs-shields/"
+    },
+    {
+        "event_id": 601,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-nogueira-vs-davis/"
+    },
+    {
+        "event_id": 602,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-128-shogun-vs-jones/"
+    },
+    {
+        "event_id": 603,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-live-sanchez-vs-kampmann/"
+    },
+    {
+        "event_id": 604,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-127-penn-vs-fitch/"
+    },
+    {
+        "event_id": 605,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-126-silva-vs-belfort/"
+    },
+    {
+        "event_id": 606,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-fight-for-the-troops-2/"
+    },
+    {
+        "event_id": 607,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-125-resolution/"
+    },
+    {
+        "event_id": 608,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-124-st-pierre-vs-koscheck-2/"
+    },
+    {
+        "event_id": 609,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/the-ultimate-fighter-team-gsp-vs-team-koscheck-finale/"
+    },
+    {
+        "event_id": 610,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-123-rampage-vs-machida/"
+    },
+    {
+        "event_id": 611,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-122-marquardt-vs-okami/"
+    },
+    {
+        "event_id": 612,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-121-lesnar-vs-velasquez/"
+    },
+    {
+        "event_id": 613,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-120-bisping-vs-akiyama/"
+    },
+    {
+        "event_id": 614,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-119-mir-vs-cro-cop/"
+    },
+    {
+        "event_id": 615,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-marquardt-vs-palhares/"
+    },
+    {
+        "event_id": 616,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-118-edgar-vs-penn-2/"
+    },
+    {
+        "event_id": 617,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-117-silva-vs-sonnen/"
+    },
+    {
+        "event_id": 618,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-live-jones-vs-matyushenko/"
+    },
+    {
+        "event_id": 619,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-116-lesnar-vs-carwin/"
+    },
+    {
+        "event_id": 620,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/the-ultimate-fighter-team-liddell-vs-team-ortiz-finale/"
+    },
+    {
+        "event_id": 621,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-115-liddell-vs-franklin/"
+    },
+    {
+        "event_id": 622,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-114-rampage-vs-evans/"
+    },
+    {
+        "event_id": 623,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-113-machida-vs-shogun-2/"
+    },
+    {
+        "event_id": 624,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-112-invincible/"
+    },
+    {
+        "event_id": 625,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-florian-vs-gomi/"
+    },
+    {
+        "event_id": 626,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-111-st-pierre-vs-hardy/"
+    },
+    {
+        "event_id": 627,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-live-vera-vs-jones/"
+    },
+    {
+        "event_id": 628,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-110-nogueira-vs-velasquez/"
+    },
+    {
+        "event_id": 629,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-109-relentless/"
+    },
+    {
+        "event_id": 630,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-maynard-vs-diaz/"
+    },
+    {
+        "event_id": 631,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-108-evans-vs-silva/"
+    },
+    {
+        "event_id": 632,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-107-penn-vs-sanchez/"
+    },
+    {
+        "event_id": 633,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/the-ultimate-fighter-heavyweights-finale/"
+    },
+    {
+        "event_id": 634,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-106-ortiz-vs-griffin-2/"
+    },
+    {
+        "event_id": 635,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-105-couture-vs-vera/"
+    },
+    {
+        "event_id": 636,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-104-machida-vs-shogun/"
+    },
+    {
+        "event_id": 637,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-103-franklin-vs-belfort/"
+    },
+    {
+        "event_id": 638,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-diaz-vs-guillard/"
+    },
+    {
+        "event_id": 639,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-102-couture-vs-nogueira/"
+    },
+    {
+        "event_id": 640,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-101-declaration/"
+    },
+    {
+        "event_id": 641,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-100/"
+    },
+    {
+        "event_id": 642,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/the-ultimate-fighter-united-states-vs-united-kingdom-finale/"
+    },
+    {
+        "event_id": 643,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-99-the-comeback/"
+    },
+    {
+        "event_id": 644,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-98-evans-vs-machida/"
+    },
+    {
+        "event_id": 645,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-97-redemption/"
+    },
+    {
+        "event_id": 646,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-condit-vs-kampmann/"
+    },
+    {
+        "event_id": 647,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-96-jackson-vs-jardine/"
+    },
+    {
+        "event_id": 648,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-95-sanchez-vs-stevenson/"
+    },
+    {
+        "event_id": 649,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-lauzon-vs-stephens/"
+    },
+    {
+        "event_id": 650,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-94-st-pierre-vs-penn-2/"
+    },
+    {
+        "event_id": 651,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-93-franklin-vs-henderson/"
+    },
+    {
+        "event_id": 652,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-92-the-ultimate-2008/"
+    },
+    {
+        "event_id": 653,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/the-ultimate-fighter-team-nogueira-vs-team-mir-finale/"
+    },
+    {
+        "event_id": 654,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night---fight-for-the-troops/"
+    },
+    {
+        "event_id": 655,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-91-couture-vs-lesnar/"
+    },
+    {
+        "event_id": 656,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-90-silva-vs-cote/"
+    },
+    {
+        "event_id": 657,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-89-bisping-vs-leben/"
+    },
+    {
+        "event_id": 658,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-diaz-vs-neer/"
+    },
+    {
+        "event_id": 659,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-88-breakthrough/"
+    },
+    {
+        "event_id": 660,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-87-seek-and-destroy/"
+    },
+    {
+        "event_id": 661,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-silva-vs-irvin/"
+    },
+    {
+        "event_id": 662,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-86-jackson-vs-griffin/"
+    },
+    {
+        "event_id": 663,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/the-ultimate-fighter-team-rampage-vs-team-forrest-finale/"
+    },
+    {
+        "event_id": 664,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-85-bedlam/"
+    },
+    {
+        "event_id": 665,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-84-ill-will/"
+    },
+    {
+        "event_id": 666,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-83-serra-vs-st-pierre-2/"
+    },
+    {
+        "event_id": 667,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-florian-vs-lauzon/"
+    },
+    {
+        "event_id": 668,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-82-pride-of-a-champion/"
+    },
+    {
+        "event_id": 669,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-81-breaking-point/"
+    },
+    {
+        "event_id": 670,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-swick-vs-burkman/"
+    },
+    {
+        "event_id": 671,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-80-rapid-fire/"
+    },
+    {
+        "event_id": 672,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-79-nemesis/"
+    },
+    {
+        "event_id": 673,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/the-ultimate-fighter-team-hughes-vs-team-serra-finale/"
+    },
+    {
+        "event_id": 674,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-78-validation/"
+    },
+    {
+        "event_id": 675,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-77-hostile-territory/"
+    },
+    {
+        "event_id": 676,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-76-knockout/"
+    },
+    {
+        "event_id": 677,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-thomas-vs-florian/"
+    },
+    {
+        "event_id": 678,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-75-champion-vs-champion/"
+    },
+    {
+        "event_id": 679,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-74-respect/"
+    },
+    {
+        "event_id": 680,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-73-stacked/"
+    },
+    {
+        "event_id": 681,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/the-ultimate-fighter-team-pulver-vs-team-penn-finale/"
+    },
+    {
+        "event_id": 682,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-72-victory/"
+    },
+    {
+        "event_id": 683,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-stout-vs-fisher/"
+    },
+    {
+        "event_id": 684,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-71-liddell-vs-jackson/"
+    },
+    {
+        "event_id": 685,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-70-nations-collide/"
+    },
+    {
+        "event_id": 686,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-69-shootout/"
+    },
+    {
+        "event_id": 687,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-stevenson-vs-guillard/"
+    },
+    {
+        "event_id": 688,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-68-the-uprising/"
+    },
+    {
+        "event_id": 689,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-67-all-or-nothing/"
+    },
+    {
+        "event_id": 690,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-evans-vs-salmon/"
+    },
+    {
+        "event_id": 691,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-66-liddell-vs-ortiz-2/"
+    },
+    {
+        "event_id": 692,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-sanchez-vs-riggs/"
+    },
+    {
+        "event_id": 693,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-65-bad-intentions/"
+    },
+    {
+        "event_id": 694,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/the-ultimate-fighter-the-comeback-finale/"
+    },
+    {
+        "event_id": 695,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-64-unstoppable/"
+    },
+    {
+        "event_id": 696,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ortiz-vs-shamrock-3-the-final-chapter/"
+    },
+    {
+        "event_id": 697,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-63-hughes-vs-penn/"
+    },
+    {
+        "event_id": 698,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-62-liddell-vs-sobral/"
+    },
+    {
+        "event_id": 699,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-6/"
+    },
+    {
+        "event_id": 700,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-61-bitter-rivals/"
+    },
+    {
+        "event_id": 701,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-5/"
+    },
+    {
+        "event_id": 702,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/the-ultimate-fighter-team-ortiz-vs-team-shamrock-finale/"
+    },
+    {
+        "event_id": 703,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-60-hughes-vs-gracie/"
+    },
+    {
+        "event_id": 704,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-59-reality-check/"
+    },
+    {
+        "event_id": 705,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-4/"
+    },
+    {
+        "event_id": 706,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-58-usa-vs-canada/"
+    },
+    {
+        "event_id": 707,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-57-liddell-vs-couture-3/"
+    },
+    {
+        "event_id": 708,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-3/"
+    },
+    {
+        "event_id": 709,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-56-full-force/"
+    },
+    {
+        "event_id": 710,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/the-ultimate-fighter-team-hughes-vs-team-franklin-finale/"
+    },
+    {
+        "event_id": 711,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-55-fury/"
+    },
+    {
+        "event_id": 712,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-2/"
+    },
+    {
+        "event_id": 713,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-54-boiling-point/"
+    },
+    {
+        "event_id": 714,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-fight-night-1/"
+    },
+    {
+        "event_id": 715,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-53-heavy-hitters/"
+    },
+    {
+        "event_id": 716,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-52-couture-vs-liddell-2/"
+    },
+    {
+        "event_id": 717,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/the-ultimate-fighter-team-couture-vs-team-liddell-finale/"
+    },
+    {
+        "event_id": 718,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-51-super-saturday/"
+    },
+    {
+        "event_id": 719,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-50-the-war-of-03904/"
+    },
+    {
+        "event_id": 720,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-49-unfinished-business/"
+    },
+    {
+        "event_id": 721,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-48-payback/"
+    },
+    {
+        "event_id": 722,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-47-it039s-on/"
+    },
+    {
+        "event_id": 723,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-46-supernatural/"
+    },
+    {
+        "event_id": 724,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-45-revolution/"
+    },
+    {
+        "event_id": 725,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-44-undisputed/"
+    },
+    {
+        "event_id": 726,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-43-meltdown/"
+    },
+    {
+        "event_id": 727,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-42-sudden-impact/"
+    },
+    {
+        "event_id": 728,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-41-onslaught/"
+    },
+    {
+        "event_id": 729,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-40-vendetta/"
+    },
+    {
+        "event_id": 730,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-39-the-warriors-return/"
+    },
+    {
+        "event_id": 731,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-38-brawl-at-the-hall/"
+    },
+    {
+        "event_id": 732,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-375-as-real-as-it-gets/"
+    },
+    {
+        "event_id": 733,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-37-high-impact/"
+    },
+    {
+        "event_id": 734,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-36-worlds-collide/"
+    },
+    {
+        "event_id": 735,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-35-throwdown/"
+    },
+    {
+        "event_id": 736,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-34-high-voltage/"
+    },
+    {
+        "event_id": 737,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-33-victory-in-vegas/"
+    },
+    {
+        "event_id": 738,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-32-showdown-in-the-meadowlands/"
+    },
+    {
+        "event_id": 739,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-31-locked-and-loaded/"
+    },
+    {
+        "event_id": 740,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-30-battle-on-the-boardwalk/"
+    },
+    {
+        "event_id": 741,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-29-defense-of-the-belts/"
+    },
+    {
+        "event_id": 742,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-28-high-stakes/"
+    },
+    {
+        "event_id": 743,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-27-ultimate-bad-boyz/"
+    },
+    {
+        "event_id": 744,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-26-ultimate-field-of-dreams/"
+    },
+    {
+        "event_id": 745,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-25-ultimate-japan-3/"
+    },
+    {
+        "event_id": 746,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-24-first-defense/"
+    },
+    {
+        "event_id": 747,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-23-ultimate-japan-2/"
+    },
+    {
+        "event_id": 748,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-22-only-one-can-be-champion/"
+    },
+    {
+        "event_id": 749,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-21-return-of-the-champions/"
+    },
+    {
+        "event_id": 750,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-20-battle-for-the-gold/"
+    },
+    {
+        "event_id": 751,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-19-ultimate-young-guns/"
+    },
+    {
+        "event_id": 752,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-18-the-road-to-the-heavyweight-title/"
+    },
+    {
+        "event_id": 753,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc---ultimate-brazil/"
+    },
+    {
+        "event_id": 754,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-17-redemption/"
+    },
+    {
+        "event_id": 755,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-16-battle-in-the-bayou/"
+    },
+    {
+        "event_id": 756,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc---ultimate-japan/"
+    },
+    {
+        "event_id": 757,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-15-collision-course/"
+    },
+    {
+        "event_id": 758,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-14-showdown/"
+    },
+    {
+        "event_id": 759,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-13-the-ultimate-force/"
+    },
+    {
+        "event_id": 760,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-12-judgement-day/"
+    },
+    {
+        "event_id": 761,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc---ultimate-ultimate-03996/"
+    },
+    {
+        "event_id": 762,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-11-the-proving-ground/"
+    },
+    {
+        "event_id": 763,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-10-the-tournament/"
+    },
+    {
+        "event_id": 764,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-9-motor-city-madness/"
+    },
+    {
+        "event_id": 765,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-8-david-vs-goliath/"
+    },
+    {
+        "event_id": 766,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc---ultimate-ultimate-03995/"
+    },
+    {
+        "event_id": 767,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-7-the-brawl-in-buffalo/"
+    },
+    {
+        "event_id": 768,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-6-clash-of-the-titans/"
+    },
+    {
+        "event_id": 769,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-5-the-return-of-the-beast/"
+    },
+    {
+        "event_id": 770,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-4-revenge-of-the-warriors/"
+    },
+    {
+        "event_id": 771,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-3-the-american-dream/"
+    },
+    {
+        "event_id": 772,
+        "event_url": "https://sports-statistics.com//ufc/ufc-fight-statistics/ufc-2-no-way-out/"
+    }
+]

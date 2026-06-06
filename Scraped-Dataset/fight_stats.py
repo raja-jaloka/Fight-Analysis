@@ -2,12 +2,13 @@ import json
 import requests
 from bs4 import BeautifulSoup
 import sys
+sys.stdout.reconfigure(encoding='utf-8')
 
 eventS=[]
 with open('fights_per_event.json') as f:
     events=json.load(f)
 
-#events=events[:10] 
+#events=events[278:] 
 events=events[:701] #reduce the data so that very old fights get rejected. 
 
 headers={
@@ -614,4 +615,4 @@ for event in events:
 
 
 with open("stats_per_fight.json", 'w') as f:
-    json.dump(event_list,f,indent=4)
+    json.dump(event_list,f,indent=4, ensure_ascii=False)

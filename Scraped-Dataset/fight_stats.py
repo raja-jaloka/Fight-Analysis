@@ -14,6 +14,8 @@ headers={
 }
 
 for event in events:
+    event_id=event['event_id'] #attr
+    event_title=event['event_title'] #attr
     fights=event['fight']
     for fight in fights:
         fight_link=fight['fight_link']
@@ -238,3 +240,147 @@ for event in events:
             f1_ground_pos_pct=None
             f2_ground_pos=None
             f2_ground_pos_pct=None
+        
+        if(rounds):
+            round_cards=rounds.find_all("div", class_="ufc-round")
+            round1str=round_cards[0].find_all("span", class_="ufc-round__num")
+            round2str=round_cards[1].find_all("span", class_="ufc-round__num")
+            round3str=round_cards[2].find_all("span", class_="ufc-round__num")
+            round4str=round_cards[3].find_all("span", class_="ufc-round__num")
+            round5str=round_cards[4].find_all("span", class_="ufc-round__num")
+
+            #round1
+            if(round1str):
+                f1r1str=round1str[0].text.strip()
+                f1r1str=f1r1str.split("/")
+                f1r1_tot_str=f1r1str[1]#attr
+                f1r1_sig_str=f1r1str[0]#attr
+
+                f2r1str=round1str[1].text.strip()
+                f2r1str=f2r1str.split("/")
+                f2r1_tot_str=f2r1str[1]#attr
+                f2r1_sig_str=f2r1str[0] #attr
+            else:
+                f1r1_tot_str=None
+                f1r1_sig_str=None
+                f2r1_tot_str=None
+                f2r1_sig_str=None
+
+            round1tkd=round_cards[0].find("span", class_="ufc-round__chip")
+            if(round1tkd):
+                round1tkd=round1tkd.text.strip()
+                round1tkd=round1tkd.split()
+                round1tkd=round1tkd[1].split("-")
+                f1r1tkd=round1tkd[0] #attr
+                f2r1tkd=round1tkd[1] #attr
+            else:
+                f1r1tkd=None
+                f2r1tkd=None
+            #round2
+            if(round1str):
+                f1r2str=round1str[0].text.strip()
+                f1r2str=f1r2str.split("/")
+                f1r2_tot_str=f1r2str[1]#attr
+                f1r2_sig_str=f1r2str[0]#attr
+
+                f2r2str=round1str[1].text.strip()
+                f2r2str=f2r2str.split("/")
+                f2r2_tot_str=f2r2str[1]#attr
+                f2r2_sig_str=f2r2str[0] #attr
+            else:
+                f1r2_tot_str=None
+                f1r2_sig_str=None
+                f2r2_tot_str=None
+                f2r2_sig_str=None
+
+            round2tkd=round_cards[1].find("span", class_="ufc-round__chip")
+            if(round2tkd):
+                round2tkd=round2tkd.text.strip()
+                round2tkd=round2tkd.split()
+                round2tkd=round2tkd[1].split("-")
+                f1r2tkd=round2tkd[0] #attr
+                f2r2tkd=round2tkd[1] #attr
+            else:
+                f1r2tkd=None
+                f2r2tkd=None
+            #round3
+            if(round1str):
+                f1r3str=round1str[0].text.strip()
+                f1r3str=f1r3str.split("/")
+                f1r3_tot_str=f1r3str[1]#attr
+                f1r3_sig_str=f1r3str[0]#attr
+
+                f2r3str=round1str[1].text.strip()
+                f2r3str=f2r3str.split("/")
+                f2r3_tot_str=f2r3str[1]#attr
+                f2r3_sig_str=f2r3str[0] #attr
+            else:
+                f1r3_tot_str=None
+                f1r3_sig_str=None
+                f2r3_tot_str=None
+                f2r3_sig_str=None
+            
+            round3tkd=round_cards[2].find("span", class_="ufc-round__chip")
+            if(round3tkd):
+                round3tkd=round3tkd.text.strip()
+                round3tkd=round3tkd.split()
+                round3tkd=round3tkd[1].split("-")
+                f1r3tkd=round3tkd[0] #attr
+                f2r3tkd=round3tkd[1] #attr
+            else:
+                f1r3tkd=None
+                f2r3tkd=None
+            #round4
+            if(round1str):
+                f1r4str=round1str[0].text.strip()
+                f1r4str=f1r4str.split("/")
+                f1r4_tot_str=f1r4str[1]#attr
+                f1r4_sig_str=f1r4str[0]#attr
+
+                f2r4str=round1str[1].text.strip()
+                f2r4str=f2r4str.split("/")
+                f2r4_tot_str=f2r4str[1]#attr
+                f2r4_sig_str=f2r4str[0] #attr
+            else:
+                f1r4_tot_str=None
+                f1r4_sig_str=None
+                f2r4_tot_str=None
+                f2r4_sig_str=None
+            
+            round4tkd=round_cards[3].find("span", class_="ufc-round__chip")
+            if(round4tkd):
+                round4tkd=round4tkd.text.strip()
+                round4tkd=round4tkd.split()
+                round4tkd=round4tkd[1].split("-")
+                f1r4tkd=round4tkd[0] #attr
+                f2r4tkd=round4tkd[1] #attr
+            else:
+                f1r4tkd=None
+                f2r4tkd=None
+            #round5
+            if(round1str):
+                f1r5str=round1str[0].text.strip()
+                f1r5str=f1r1str.split("/")
+                f1r5_tot_str=f1r5str[1]#attr
+                f1r5_sig_str=f1r5str[0]#attr
+
+                f2r5str=round1str[1].text.strip()
+                f2r5str=f2r5str.split("/")
+                f2r5_tot_str=f2r5str[1]#attr
+                f2r5_sig_str=f2r5str[0] #attr
+            else:
+                f1r5_tot_str=None
+                f1r5_sig_str=None
+                f2r5_tot_str=None
+                f2r5_sig_str=None
+
+            round5tkd=round_cards[4].find("span", class_="ufc-round__chip")
+            if(round5tkd):
+                round5tkd=round5tkd.text.strip() #attr
+                round5tkd=round5tkd.split()
+                round5tkd=round5tkd[1].split("-")
+                f1r5tkd=round5tkd[0] #attr
+                f2r5tkd=round5tkd[1] #attr
+            else:
+                f1r5tkd=None
+                f2r5tkd=None

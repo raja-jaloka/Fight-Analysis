@@ -4,11 +4,11 @@ from bs4 import BeautifulSoup
 import sys
 sys.stdout.reconfigure(encoding='utf-8')
 
-eventS=[]
+events=[]
 with open('fights_per_event.json') as f:
     events=json.load(f)
 
-#events=events[278:] 
+#events=events[700:] 
 events=events[:701] #reduce the data so that very old fights get rejected. 
 
 headers={
@@ -307,7 +307,9 @@ for event in events:
                 round1tkd=round_cards[0].find("span", class_="ufc-round__chip")
                 if(round1tkd):
                     round1tkd=round1tkd.text.strip()
+                    #print(repr(round1tkd))
                     round1tkd=round1tkd.split()
+                    #print(repr(round1tkd))
                     round1tkd=round1tkd[1].split("-")
                     f1r1tkd=round1tkd[0] #attr-1
                     if(len(round1tkd)>1):

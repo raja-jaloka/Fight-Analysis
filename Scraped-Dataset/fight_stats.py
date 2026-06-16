@@ -306,19 +306,20 @@ for event in events:
 
                 round1tkd=round_cards[0].find("span", class_="ufc-round__chip")
                 if(round1tkd):
-                    round1tkd=round1tkd.text.strip()
+                    round1chip=round1tkd.text.strip() #earlier tkd pattern followed below
                     #print(repr(round1tkd))
-                    round1tkd=round1tkd.split()
+                    #round1tkd=round1tkd.split()
                     #print(repr(round1tkd))
-                    round1tkd=round1tkd[1].split("-")
-                    f1r1tkd=round1tkd[0] #attr-1
-                    if(len(round1tkd)>1):
-                        f2r1tkd=round1tkd[1] #attr-1
-                    else:
-                        f2r1tkd=None
+                    #round1tkd=round1tkd[1].split("-")
+                    #f1r1tkd=round1tkd[0] #attr-1
+                    #if(len(round1tkd)>1):
+                    #    f2r1tkd=round1tkd[1] #attr-1
+                    #else:
+                    #    f2r1tkd=None
                 else:
-                    f1r1tkd=None
-                    f2r1tkd=None
+                    #f1r1tkd=None
+                    #f2r1tkd=None
+                    round1chip=None
 
                 if(len(round_cards)>1):
                     round2str=round_cards[1].find_all("span", class_="ufc-round__num")
@@ -341,17 +342,18 @@ for event in events:
 
                     round2tkd=round_cards[1].find("span", class_="ufc-round__chip")
                     if(round2tkd):
-                        round2tkd=round2tkd.text.strip()
-                        round2tkd=round2tkd.split()
-                        round2tkd=round2tkd[1].split("-")
-                        f1r2tkd=round2tkd[0] #attr-1
-                        if(len(round2tkd)>1):
-                            f2r2tkd=round2tkd[1] #attr-1
-                        else:
-                            f2r2tkd=None
+                        round2chip=round2tkd.text.strip()
+                        #round2tkd=round2tkd.split()
+                        #round2tkd=round2tkd[1].split("-")
+                        #f1r2tkd=round2tkd[0] #attr-1
+                        #if(len(round2tkd)>1):
+                        #    f2r2tkd=round2tkd[1] #attr-1
+                        #else:
+                        #    f2r2tkd=None
                     else:
-                        f1r2tkd=None
-                        f2r2tkd=None
+                        #f1r2tkd=None
+                        #f2r2tkd=None
+                        round2chip=None
                     if(len(round_cards)>2):
                         round3str=round_cards[2].find_all("span", class_="ufc-round__num")
                         #round3
@@ -373,17 +375,18 @@ for event in events:
                         
                         round3tkd=round_cards[2].find("span", class_="ufc-round__chip")
                         if(round3tkd):
-                            round3tkd=round3tkd.text.strip()
-                            round3tkd=round3tkd.split()
-                            round3tkd=round3tkd[1].split("-")
-                            f1r3tkd=round3tkd[0] #attr-1
-                            if(len(round3tkd)>1):
-                                f2r3tkd=round3tkd[1] #attr-1
-                            else:
-                                f2r3tkd=None
+                            round3chip=round3tkd.text.strip()
+                            #round3tkd=round3tkd.split()
+                            #round3tkd=round3tkd[1].split("-")
+                            #f1r3tkd=round3tkd[0] #attr-1
+                            #if(len(round3tkd)>1):
+                            #    f2r3tkd=round3tkd[1] #attr-1
+                            #else:
+                            #    f2r3tkd=None
                         else:
-                            f1r3tkd=None
-                            f2r3tkd=None
+                            round3chip=None
+                            #f1r3tkd=None
+                            #f2r3tkd=None
                         if(len(round_cards)>3):
                             round4str=round_cards[3].find_all("span", class_="ufc-round__num")
                             #round4
@@ -405,17 +408,18 @@ for event in events:
                             
                             round4tkd=round_cards[3].find("span", class_="ufc-round__chip")
                             if(round4tkd):
-                                round4tkd=round4tkd.text.strip()
-                                round4tkd=round4tkd.split()
-                                round4tkd=round4tkd[1].split("-")
-                                f1r4tkd=round4tkd[0] #attr-1
-                                if(len(round4tkd)>1):
-                                    f2r4tkd=round4tkd[1] #attr-1
-                                else:
-                                    f2r4tkd=None
+                                round4chip=round4tkd.text.strip()
+                                #round4tkd=round4tkd.split()
+                                #round4tkd=round4tkd[1].split("-")
+                                #f1r4tkd=round4tkd[0] #attr-1
+                                #if(len(round4tkd)>1):
+                                #    f2r4tkd=round4tkd[1] #attr-1
+                                #else:
+                                #   f2r4tkd=None
                             else:
-                                f1r4tkd=None
-                                f2r4tkd=None
+                                round4chip=None
+                                #f1r4tkd=None
+                                #f2r4tkd=None
                             if(len(round_cards)>4):
                                 round5str=round_cards[4].find_all("span", class_="ufc-round__num")
                                 #round5
@@ -437,81 +441,92 @@ for event in events:
 
                                 round5tkd=round_cards[4].find("span", class_="ufc-round__chip")
                                 if(round5tkd):
-                                    round5tkd=round5tkd.text.strip() 
-                                    round5tkd=round5tkd.split()
-                                    round5tkd=round5tkd[1].split("-")
-                                    f1r5tkd=round5tkd[0] #attr-1
-                                    if(len(round5tkd)>1):
-                                        f2r5tkd=round5tkd[1] #attr-1
-                                    else:
-                                        f2r5tkd=None
+                                    round5chip=round5tkd.text.strip() 
+                                    #round5tkd=round5tkd.split()
+                                    #round5tkd=round5tkd[1].split("-")
+                                    #f1r5tkd=round5tkd[0] #attr-1
+                                    #if(len(round5tkd)>1):
+                                    #    f2r5tkd=round5tkd[1] #attr-1
+                                    #else:
+                                    #    f2r5tkd=None
                                 else:
-                                    f1r5tkd=None
-                                    f2r5tkd=None
+                                    round5chip=None
+                                    #f1r5tkd=None
+                                    #f2r5tkd=None
                             else:
                                 f1r5_tot_str=None
                                 f1r5_sig_str=None
                                 f2r5_tot_str=None
                                 f2r5_sig_str=None
-                                f1r5tkd=None
-                                f2r5tkd=None
+                                #f1r5tkd=None
+                                #f2r5tkd=None
+                                round5chip=None
                         else:
                             f1r4_tot_str=None
                             f1r4_sig_str=None
                             f2r4_tot_str=None
                             f2r4_sig_str=None
-                            f1r4tkd=None
-                            f2r4tkd=None
+                            #f1r4tkd=None
+                            #f2r4tkd=None
+                            round4chip=None
                             f1r5_tot_str=None
                             f1r5_sig_str=None
                             f2r5_tot_str=None
                             f2r5_sig_str=None
-                            f1r5tkd=None
-                            f2r5tkd=None
+                            #f1r5tkd=None
+                            #f2r5tkd=None
+                            round5chip=None
                     else:
                         f1r3_tot_str=None
                         f1r3_sig_str=None
                         f2r3_tot_str=None
                         f2r3_sig_str=None
-                        f1r3tkd=None
-                        f2r3tkd=None
+                        #f1r3tkd=None
+                        #f2r3tkd=None
+                        round3chip=None
                         f1r4_tot_str=None
                         f1r4_sig_str=None
                         f2r4_tot_str=None
                         f2r4_sig_str=None
-                        f1r4tkd=None
-                        f2r4tkd=None
+                        #f1r4tkd=None
+                        #f2r4tkd=None
+                        round4chip=None
                         f1r5_tot_str=None
                         f1r5_sig_str=None
                         f2r5_tot_str=None
                         f2r5_sig_str=None
-                        f1r5tkd=None
-                        f2r5tkd=None
+                        #f1r5tkd=None
+                        #f2r5tkd=None
+                        round5chip=None
                 else:
                     f1r2_tot_str=None
                     f1r2_sig_str=None
                     f2r2_tot_str=None
                     f2r2_sig_str=None
-                    f1r2tkd=None
-                    f2r2tkd=None
+                    #f1r2tkd=None
+                    #f2r2tkd=None
+                    round2chip=None
                     f1r3_tot_str=None
                     f1r3_sig_str=None
                     f2r3_tot_str=None
                     f2r3_sig_str=None
-                    f1r3tkd=None
-                    f2r3tkd=None
+                    #f1r3tkd=None
+                    #f2r3tkd=None
+                    round3chip=None
                     f1r4_tot_str=None
                     f1r4_sig_str=None
                     f2r4_tot_str=None
                     f2r4_sig_str=None
-                    f1r4tkd=None
-                    f2r4tkd=None
+                    #f1r4tkd=None
+                    #f2r4tkd=None
+                    round4chip=None
                     f1r5_tot_str=None
                     f1r5_sig_str=None
                     f2r5_tot_str=None
                     f2r5_sig_str=None
-                    f1r5tkd=None
-                    f2r5tkd=None
+                    #f1r5tkd=None
+                    #f2r5tkd=None
+                    round5chip=None
 
 
             fighter1={
@@ -538,19 +553,19 @@ for event in events:
                 "ground-pos-pct":f1_ground_pos_pct,
                 "r1-tot-str":f1r1_tot_str,
                 "r1-sig-str":f1r1_sig_str,
-                "r1-tkd":f1r1tkd,
+                #"r1-tkd":f1r1tkd,
                 "r2-tot-str":f1r2_tot_str,
                 "r2-sig-str":f1r2_sig_str,
-                "r2-tkd":f1r2tkd,
+                #"r2-tkd":f1r2tkd,
                 "r3-tot-str":f1r3_tot_str,
                 "r3-sig-str":f1r3_sig_str,
-                "r3-tkd":f1r3tkd,
+                #"r3-tkd":f1r3tkd,
                 "r4-tot-str":f1r4_tot_str,
                 "r4-sig-str":f1r4_sig_str,
-                "r4-tkd":f1r4tkd,
+                #"r4-tkd":f1r4tkd,
                 "r5-tot-str":f1r5_tot_str,
                 "r5-sig-str":f1r5_sig_str,
-                "r5-tkd":f1r5tkd
+                #"r5-tkd":f1r5tkd
             }
             fighter2={
                 "fighter_name":f2,
@@ -576,25 +591,33 @@ for event in events:
                 "ground-pos-pct":f2_ground_pos_pct,
                 "r1-tot-str":f2r1_tot_str,
                 "r1-sig-str":f2r1_sig_str,
-                "r1-tkd":f2r1tkd,
+                #"r1-tkd":f2r1tkd,
                 "r2-tot-str":f2r2_tot_str,
                 "r2-sig-str":f2r2_sig_str,
-                "r2-tkd":f2r2tkd,
+                #"r2-tkd":f2r2tkd,
                 "r3-tot-str":f2r3_tot_str,
                 "r3-sig-str":f2r3_sig_str,
-                "r3-tkd":f2r3tkd,
+                #"r3-tkd":f2r3tkd,
                 "r4-tot-str":f2r4_tot_str,
                 "r4-sig-str":f2r4_sig_str,
-                "r4-tkd":f2r4tkd,
+                #"r4-tkd":f2r4tkd,
                 "r5-tot-str":f2r5_tot_str,
                 "r5-sig-str":f2r5_sig_str,
-                "r5-tkd":f2r5tkd
+                #"r5-tkd":f2r5tkd
+            }
+            roundchips={
+                "round1chip":round1chip,
+                "round2chip":round2chip,
+                "round3chip":round3chip,
+                "round4chip":round4chip,
+                "round5chip":round5chip
             }
             fight_dict={
                 "fight_link":fight_link,
                 "fight_title":fight_title,
                 "win_method":win_method,
                 "win_time":win_time,
+                "roundchips":roundchips,
                 "fighter1":fighter1,
                 "fighter2":fighter2
             }

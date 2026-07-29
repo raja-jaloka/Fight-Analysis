@@ -57,6 +57,8 @@ for fighter in sec_fighters_data:
 #print(f'Number of unique fighters: {len(fighter_names)}')#2535
 #print(f'Number of duplicate fighters: {len(dup_fighters)}')#3
 #print(f'Duplicate fighters: {dup_fighters}')  # ['Joey Gomez', 'Keiichiro Nakamura', 'Bruno Silva']
+
+#============Defining pri-fighter-link============
 '''
 pri_fighter={}
 for fighter in sec_fighters_data:
@@ -64,7 +66,10 @@ for fighter in sec_fighters_data:
 
 #with open('pri-fighter-link.json','w',encoding='utf-8') as f3:
     #json.dump(pri_fighter,f3,indent=4)
+'''
 
+#=============Event_fighter_link.json created here=================
+'''
 #print(pri_fighter)
 event_fighter_link=[]
 error_link_list=[]
@@ -105,8 +110,11 @@ for event in fight_stats:
 #print("Bruno Silva" in pri_fighter)
 #print(event_fighter_link)
 #with open('event_fighter_link.json', 'w', encoding='utf-8') as f3:
- #   json.dump(event_fighter_link, f3, indent=4)
+ #   json.dump(event_fighter_link, f3, indent=4)  #event_fighter_link.json was created here 
+'''
 
+#===================Updating Extra_fighters_stats.json into a dictionary with fighter_id as the primary key=========================
+''' 
 fighter_stats={}
 for fighter in sec_fighters_data:
     fighter_stats[fighter["fighter_id"]]=fighter
@@ -114,8 +122,10 @@ for fighter in sec_fighters_data:
 #print(fighter_stats)
 
 #with open("Extra_fighters_stats.json",'w') as d:
- #   json.dump(fighter_stats,d,indent=4)
+ #   json.dump(fighter_stats,d,indent=4)   #we converted the list of fighters to a dictionary
 '''
+
+
 #++++++++++++++++++Checking Elo Rating System+++++++++++++++++++++++++++++++
 sys.stdout.reconfigure(encoding="utf-8")
 with open("event_fighter_link.json",'r') as f:

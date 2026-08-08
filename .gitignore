@@ -2,5 +2,10 @@ Scraped-Dataset/temptesting.py
 .dist/
 .venv/
 Reference_Dataset/
-fighter_matcher.py
-
+#fighter_matcher.py
+#json_to_csv.py
+#fight_group_dict.py
+#Output_elo_rating.py
+#Data_grouping/*
+#!Data_grouping/elo_rating.py
+#/data-understanding/data_und.py

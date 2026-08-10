@@ -11,6 +11,7 @@ import matplotlib.pyplot as plt
 from sklearn.metrics import roc_curve
 from sklearn.metrics import RocCurveDisplay
 from xgboost import XGBClassifier 
+import time 
 
 #Input CSV File
 df=pd.read_csv("processed_data.csv")
@@ -27,6 +28,7 @@ X=df.drop(columns=["outcome","sr_no"])
 #Train-Test-Split
 X_train,X_test,Y_train,Y_test=train_test_split(X,Y,random_state=42,test_size=0.2)
 
+a=time.time()
 #Model 1: Logistic Regression
 pipe=Pipeline(steps=[('scaler',StandardScaler()),('model',LogisticRegression(max_iter=1000))])
 pipe.fit(X_train,Y_train)
@@ -39,7 +41,9 @@ print(confusion_matrix(Y_test,pipe.predict(X_test)))
 print("Recall Score:-",end="---")
 print(recall_score(Y_test,pipe.predict(X_test))*100)
 RocCurveDisplay.from_estimator(pipe,X_test,Y_test)
+print(f'Model 1 exec time: {time.time()-a}')
 
+a=time.time()
 #Model 2: Logistic Regression + Quantile Transformer 
 pipe_=Pipeline(steps=[("transformer",QuantileTransformer(output_distribution="normal")),("model",LogisticRegression())])
 pipe_.fit(X_train,Y_train)
@@ -52,7 +56,9 @@ print(confusion_matrix(Y_test,pipe_.predict(X_test)))
 print("Recall Score:-",end="---")
 print(recall_score(Y_test,pipe_.predict(X_test))*100)
 RocCurveDisplay.from_estimator(pipe_,X_test,Y_test)
+print(f'Model 2 exec time: {time.time()-a}')
 
+a=time.time()
 #Model 3: Decision Tree Classifier + Quantile Transformer
 pipe1=Pipeline(steps=[("scaler",StandardScaler()),("model",DecisionTreeClassifier())])
 pipe1.fit(X_train,Y_train)
@@ -65,7 +71,9 @@ print(confusion_matrix(Y_test,pipe1.predict(X_test)))
 print("Recall Score:-",end="---")
 print(recall_score(Y_test,pipe1.predict(X_test))*100)
 RocCurveDisplay.from_estimator(pipe1,X_test,Y_test)
+print(f'Model 3 exec time: {time.time()-a}')
 
+a=time.time()
 #Model 4: RandomForestClassifier + Quantile Transformer
 #pipe3=Pipeline(steps=[("scaler",QuantileTransformer(output_distribution="normal")),("clf",RandomForestClassifier(n_estimators=500,max_depth=None,random_state=42))])
 pipe3=Pipeline(steps=[("scaler",StandardScaler()),("clf",RandomForestClassifier(n_estimators=500,max_depth=None,random_state=42))])
@@ -79,7 +87,9 @@ print(confusion_matrix(Y_test,pipe3.predict(X_test)))
 print("Recall Score:-",end="---")
 print(recall_score(Y_test,pipe3.predict(X_test))*100)
 RocCurveDisplay.from_estimator(pipe3,X_test,Y_test)
+print(f'Model 4 exec time: {time.time()-a}')
 
+a=time.time()
 #Model 5: XGBClassifier + Quantile Transformer
 #pipe4=Pipeline(steps=[("transformer",QuantileTransformer(output_distribution="normal")),("model",XGBClassifier(n_estimators=500,max_depth=None,learning_rate=1,objective="binary:logistic"))])
 pipe4=Pipeline(steps=[("scaler",StandardScaler()),("model",XGBClassifier(n_estimators=500,max_depth=None,learning_rate=1,objective="binary:logistic"))])
@@ -93,6 +103,7 @@ print(confusion_matrix(Y_test,pipe4.predict(X_test)))
 print("Recall Score:-",end="---")
 print(recall_score(Y_test,pipe4.predict(X_test))*100)
 RocCurveDisplay.from_estimator(pipe4,X_test,Y_test)
+print(f'Model 5 exec time: {time.time()-a}')
 
 plt.show()
 
@@ -103,3 +114,5 @@ plt.show()
 #Conclusion2: LogisticRegression>DecisionTreeClassifier,MLP
 #Conclusion 3 : better results with Logistics regression + quantile Transformer
 #Conclusion 4: better results from RandomForestClasssifier based on ROC-AUC + quantile transformer 
+#Conclusion 5: XGB's AUC ~= LR+QT's 
+#Conclusion 6: LR+QT's execution time < RFC's exec time with <1% accuracy change so we choose model 2

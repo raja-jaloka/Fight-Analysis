@@ -1,15 +1,15 @@
-import pandas as pd 
-from sklearn.pipeline import Pipeline
-from sklearn.preprocessing import StandardScaler
-from sklearn.preprocessing import QuantileTransformer
-from sklearn.linear_model import LogisticRegression
-from sklearn.model_selection import train_test_split
-from sklearn.metrics import precision_score, accuracy_score, confusion_matrix,recall_score
-from sklearn.tree import DecisionTreeClassifier
-from sklearn.ensemble import RandomForestClassifier
-import matplotlib.pyplot as plt
-from sklearn.metrics import roc_curve
-from sklearn.metrics import RocCurveDisplay
+import pandas as pd  #type: ignore
+from sklearn.pipeline import Pipeline #type: ignore
+from sklearn.preprocessing import StandardScaler #type: ignore
+from sklearn.preprocessing import QuantileTransformer #type: ignore
+from sklearn.linear_model import LogisticRegression #type: ignore
+from sklearn.model_selection import train_test_split #type: ignore
+from sklearn.metrics import precision_score, accuracy_score, confusion_matrix,recall_score #type: ignore
+from sklearn.tree import DecisionTreeClassifier #type: ignore
+from sklearn.ensemble import RandomForestClassifier #type: ignore
+import matplotlib.pyplot as plt #type: ignore
+from sklearn.metrics import roc_curve #type: ignore
+from sklearn.metrics import RocCurveDisplay #type: ignore
 from xgboost import XGBClassifier 
 import time 
 

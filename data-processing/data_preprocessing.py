@@ -7,6 +7,9 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import precision_score, accuracy_score, confusion_matrix,recall_score
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.ensemble import RandomForestClassifier
+import matplotlib.pyplot as plt
+from sklearn.metrics import roc_curve
+from sklearn.metrics import RocCurveDisplay
 
 df=pd.read_csv("processed_data.csv")
 
@@ -47,6 +50,7 @@ print(precision_score(Y_test,pipe.predict(X_test))*100,end="%\n")
 print(confusion_matrix(Y_test,pipe.predict(X_test)))
 print("Recall Score:-",end="---")
 print(recall_score(Y_test,pipe.predict(X_test))*100)
+RocCurveDisplay.from_estimator(pipe,X_test,Y_test)
 print("----quantileTransformer----")
 print("Accuracy Score:-",end="---")
 print(accuracy_score(Y_test,pipe_.predict(X_test))*100,end="%\n")
@@ -63,7 +67,7 @@ print(precision_score(Y_test,pipe1.predict(X_test))*100,end="%\n")
 print(confusion_matrix(Y_test,pipe1.predict(X_test)))
 print("Recall Score:-",end="---")
 print(recall_score(Y_test,pipe1.predict(X_test))*100)
-
+RocCurveDisplay.from_estimator(pipe1,X_test,Y_test)
 print("RandomForestClassifier metrics")
 print("Accuracy Score:-",end="---")
 print(accuracy_score(Y_test,pipe3.predict(X_test))*100,end="%\n")
@@ -73,9 +77,13 @@ print(confusion_matrix(Y_test,pipe3.predict(X_test)))
 print("Recall Score:-",end="---")
 print(recall_score(Y_test,pipe3.predict(X_test))*100)
 
+RocCurveDisplay.from_estimator(pipe3,X_test,Y_test)
+plt.show()
+
 #print("MLP metrics")
 #print(accuracy_score(Y_test,pipe3.predict(X_test)))
 #print(precision_score(Y_test,pipe3.predict(X_test)))
 #Conclusion1: round-wise stats improve accuracy by only a minute percentage with the heavy reliance on overall stats.
 #Conclusion2: LogisticRegression>DecisionTreeClassifier,MLP
 #Conclusion 3 : better results with Logistics regression + quantile Transformer
+#Conclusion 4: better results from RandomForestClasssifier based on ROC-AUC + quantile transformer 

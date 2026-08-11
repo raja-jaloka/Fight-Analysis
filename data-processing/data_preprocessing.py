@@ -32,6 +32,8 @@ X=df.drop(columns=["outcome","sr_no","r1-ts-1","r1-ss-1","r2-ts-1","r2-ss-1","r3
 #Train-Test-Split
 X_train,X_test,Y_train,Y_test=train_test_split(X,Y,random_state=42,test_size=0.2)
 
+#Model-Selection
+
 a=time.time()
 #Model 1: Logistic Regression
 pipe=Pipeline(steps=[('scaler',StandardScaler()),('model',LogisticRegression(max_iter=1000))])

@@ -14,6 +14,7 @@ from xgboost import XGBClassifier
 import time 
 from sklearn.calibration import CalibrationDisplay #type: ignore
 from sklearn.metrics import log_loss #type: ignore
+import joblib #type: ignore
 
 #Input CSV File
 df=pd.read_csv("processed_data.csv")
@@ -122,6 +123,9 @@ print(f'logloss: {log_loss(y_true=Y_test,y_pred=pipe4.predict(X_test))}')
 print(f'Model 5 exec time: {time.time()-a}')
 
 plt.show()
+
+joblib.dump(pipe_,"lrqt.joblib")
+joblib.dump(pipe3,"rfc.joblib")
 
 #print("MLP metrics")
 #print(accuracy_score(Y_test,pipe3.predict(X_test)))

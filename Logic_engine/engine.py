@@ -127,21 +127,19 @@ def fighter_prob(name1, name2):
     probs=pipe_.predict_proba([features])
     #print(pipe_.predict_proba([features]))
 
-    print("++++++++++RESULTS++++++++++")
-
-    print(f"Probability of {name1} winning: {probs[0][1]*100:.2f}% vs Probability of {name2} winning: {probs[0][0]*100:.2f}%")
+    #print("++++++++++RESULTS++++++++++")
+    f1_prob=probs[0][1]*100
+    f2_prob=probs[0][0]*100
 
     x=pipe1.predict([features])
     if(x==1):
-        print(f"Winner is {name1}")
+        winner=name1
+        winner_prob=f1_prob
     else:
-        print(f"Winner is {name2}")
-    #print(f"Winner is {pipe_.predict([features])}")
+        winner=name2
+        winner_prob=f2_prob
+    return winner,winner_prob
 
-fighter_prob("Ilia Topuria","Islam Makhachev")
-fighter_prob("Khamzat Chimaev","Sean Strickland")
-fighter_prob("Khabib Nurmagomedov","Conor McGregor")
-fighter_prob("Jon Jones","Daniel Cormier")
-fighter_prob("Khabib Nurmagomedov","Ilia Topuria") 
+
 
 #NOTE: 0 means fighter 2 wins, 1 means fighter 1 wins

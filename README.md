@@ -59,14 +59,7 @@ Edit the `fighter_prob(name1, name2)` calls at the bottom of `engine.py` to try 
 
 To retrain from scratch, run the pipeline stages above in order — scraping first, then `Data_grouping/`, then `data-processing/data-processing.py`, then `data-processing/data_preprocessing.py`.
 
-## Known limitations
-
-- No single orchestrating entry point (`main.py`) — each stage is a script you run manually, with hardcoded relative filenames.
-- `engine.py` prints results rather than returning them, and the five test matchups are hardcoded at module level, so importing it runs live predictions as a side effect.
-- Several scripts (`fighter_matcher.py`, parts of `Output_elo_rating.py`) are debug/experimental and not part of the working pipeline.
-- No automated tests, and no `requirements.txt` prior to this one.
-- Scraping scripts have no retry/backoff and will `exit()` on the first non-200 response.
 
 ## License
 
-No license file is currently included — add one (e.g. MIT) if you intend for others to reuse this.
+No license file is currently included.

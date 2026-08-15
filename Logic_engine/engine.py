@@ -128,8 +128,8 @@ def fighter_prob(name1, name2):
     #print(pipe_.predict_proba([features]))
 
     #print("++++++++++RESULTS++++++++++")
-    f1_prob=probs[0][1]*100
-    f2_prob=probs[0][0]*100
+    f1_prob=float(f"{probs[0][1]*100:.2f}")
+    f2_prob=float(f"{probs[0][0]*100:.2f}")
 
     x=pipe1.predict([features])
     if(x==1):

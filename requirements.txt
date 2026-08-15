@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+pandas
+scikit-learn
+xgboost
+matplotlib
+joblib
